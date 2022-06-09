@@ -36,7 +36,7 @@ bot_shape = ""
 
 # assigning X or O
 while True:
-    user_shape = input("Choose O or X. ")
+    user_shape = input("Choose O or X. \n")
     if user_shape not in ["O", "X"]:
         print("Invalid option.")
     else:

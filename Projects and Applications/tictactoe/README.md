@@ -7,7 +7,7 @@ Allows the user to pick their shape, automatically assigns other symbol to bot
 ===============================================
 
 Example gameplay:
-
+```
 Choose O or X. X
 
 1|2|3
@@ -44,3 +44,4 @@ X|X|
 O|O| 
 Choose a number from 1-9 that is not on the board. 6
 You win!
+```

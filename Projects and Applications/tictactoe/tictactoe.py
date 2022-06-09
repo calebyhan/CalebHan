@@ -3,10 +3,10 @@ Created on: 9/13/2020
 Author: Caleb Han
 '''
 
+# imports
 import random
 
-#each slot for the board
-
+# layout of boards
 a_1 = " "
 a_2 = " "
 a_3 = " "
@@ -17,15 +17,11 @@ a_7 = " "
 a_8 = " "
 a_9 = " "
 
-#board
-
 board = '''{}|{}|{}
 -----
 {}|{}|{}
 -----
 {}|{}|{}'''.format(a_1, a_2, a_3, a_4, a_5, a_6, a_7, a_8, a_9)
-
-#example board
 
 board_choose = '''1|2|3
 -----
@@ -33,14 +29,12 @@ board_choose = '''1|2|3
 -----
 7|8|9'''
 
-#choices of action for bot
+choices = list(range(1, 10))
 
-choices = [1, 2, 3, 4, 5, 6, 7, 8, 9]
-
+# bot's X or O
 bot_shape = ""
 
-#player/bot shape choose
-
+# assigning X or O
 while True:
     user_shape = input("Choose O or X. ")
     if user_shape not in ["O", "X"]:
@@ -52,8 +46,7 @@ while True:
         bot_shape = "X"
         break
 
-#main code
-
+# main loop
 while True:
     print(board_choose)
     print('''{}|{}|{}
@@ -61,14 +54,13 @@ while True:
 {}|{}|{}
 -----
 {}|{}|{}'''.format(a_1, a_2, a_3, a_4, a_5, a_6, a_7, a_8, a_9))
-    #user input
+    # user input, error handling
     user_input = int(input("Choose a number from 1-9 that is not on the board. "))
     if user_input not in [1, 2, 3, 4, 5, 6, 7, 8, 9]:
         print("Invalid option.")
         break
     else:
-        #puts the user input to the board
-        
+        # board piece assignment and winning logic
         choices.remove(user_input)
         if user_input == 1:
             a_1 = user_shape
@@ -88,9 +80,6 @@ while True:
             a_8 = user_shape
         elif user_input == 9:
             a_9 = user_shape
-            
-        #takes the bot input to the board
-        
         bot_choose = random.choice(choices)
         choices.remove(bot_choose)
         if bot_choose == 1:
@@ -111,9 +100,6 @@ while True:
             a_8 = bot_shape
         elif bot_choose == 9:
             a_9 = bot_shape
-            
-        #checks if someone won
-        
         if (a_1 == user_shape) and (a_2 == user_shape) and (a_3 == user_shape):
             print("You win!")
             break

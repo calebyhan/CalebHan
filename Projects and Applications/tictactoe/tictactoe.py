@@ -1,5 +1,5 @@
-'''Tictactoe
-Created on: 9/13/2020
+'''
+Tictactoe
 Author: Caleb Han
 '''
 
@@ -48,6 +48,7 @@ while True:
 
 # main loop
 while True:
+    # printing board
     print(board_choose)
     print('''{}|{}|{}
 -----

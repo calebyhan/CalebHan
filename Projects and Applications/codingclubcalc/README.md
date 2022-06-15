@@ -9,6 +9,19 @@ thds.py - 3-d shape formulas
 twds.py - 2-d shape formulas
 
 Example run:
+```
+Welcome to the calculator and math stuffs.
+Enter 'quit' anytime to quit.
+Choose a directory: [ca]lc, [tw]o-d shapes, [th]ree-d shapes, [f]ormulas, 
+[co]nversions tw
+Choose an option: [ci]rcle, [re]ctangle, [sq]uare, [tri]angle, [tra]pezoid, [rh]ombus, ci
+Area = pi*radius^2
+Circumference = 2*pi*radius
+What do you know: [a]rea, [r]adius, or [c]ircumference r
+What is the radius? 5
+Area: 78.53981633974483
+Circumference: 31.41592653589793
+```
 
 CHANGELOG:
 ```

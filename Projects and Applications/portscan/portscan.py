@@ -1,3 +1,8 @@
+'''
+Port scan practice
+Author: Caleb Han
+'''
+
 # imports
 
 import socket

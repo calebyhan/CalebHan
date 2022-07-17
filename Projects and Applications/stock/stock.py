@@ -1,3 +1,8 @@
+'''
+Stock
+Author: Caleb Han
+'''
+
 # imports
 
 import requests

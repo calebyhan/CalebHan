@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Credits
+comment0.text=\r\n\ Show\ credits\r\n\ \r\n\ @author\ Caleb\ Han\ and\ Elynn\ An\r\n
+comment1.params=p
+comment1.target=Credits(int)
+comment2.params=p\ l
+comment2.target=Credits(int,\ int)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=pr
+comment4.target=void\ retWorld(int)
+comment5.params=
+comment5.target=int[]\ getMouse()
+numComments=6

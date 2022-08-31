@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=C1
+comment0.text=\r\n\ Controls\ first\ chapter\r\n\ \r\n\ @author\ Caleb\ Han\ and\ Elynn\ An\r\n
+comment1.params=
+comment1.target=C1()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=int[]\ getMouse()
+numComments=4

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Final_battle
+comment0.text=\r\n\ Final\ battle\r\n\ \r\n\ @author\ Caleb\ Han\ and\ Elynn\ An\r\n
+comment1.params=
+comment1.target=Final_battle()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ timer()
+comment4.params=
+comment4.target=boolean\ checkwin()
+comment5.params=
+comment5.target=void\ displayLife()
+comment6.params=
+comment6.target=void\ moveFeathers()
+comment7.params=
+comment7.target=void\ newFeather()
+comment8.params=
+comment8.target=int[]\ getMouse()
+numComments=9

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Dedscene
+comment0.text=\r\n\ Show\ crime\ scene\r\n\ \r\n\ @author\ Caleb\ Han\ and\ Elynn\ An\r\n
+comment1.params=f
+comment1.target=Dedscene(boolean)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=int[]\ getMouse()
+numComments=4

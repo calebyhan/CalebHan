@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=C2
+comment0.text=\r\n\ Chapter\ 2\r\n\ \r\n\ @author\ Caleb\ Han\ and\ Elynn\ An\r\n
+comment1.params=
+comment1.target=C2()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ investigate_s()
+comment4.params=
+comment4.target=void\ investigate_r()
+comment5.params=
+comment5.target=int[]\ getMouse()
+numComments=6

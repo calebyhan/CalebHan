@@ -4,6 +4,7 @@ Purpose:Converts base 10 numbers to another base (at most 4 digits in the other 
 */
 
 import java.util.Scanner;
+
 public class Main {
   public static void main (String[] args) {
   int base; // the new base

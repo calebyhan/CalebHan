@@ -7,8 +7,6 @@ Problem 2. Where Am I?
 http://www.usaco.org/index.php?page=viewproblem2&cpid=964
 '''
 
-import re
-
 with open("whereami.in", "r") as f:
     n = int(f.readline().strip())
     mailboxes = [*f.readline().strip()]

@@ -6,7 +6,7 @@ Purpose: Test several methods for manipulating String objects
 import java.util.Scanner;
 
 public class Main {
- public static void main (String[] args) {
+  public static void main (String[] args) {
     String phrase = new String ("This is a String test.");
     int phraseLength; // number of characters in the phrase String
     int middleIndex; // index of the middle character in the String
@@ -38,5 +38,5 @@ public class Main {
      phrase.charAt(middleIndex));
     System.out.println ("Switched phrase: " + switchedPhrase);
     System.out.println("Middle3: " + middle3);
- }
+  }
 }

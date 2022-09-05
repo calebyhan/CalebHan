@@ -4,6 +4,7 @@ Purpose: This program computes a student's lab grade from the grades on the thre
 */
 
 import java.util.Scanner;
+
 public class Main {
   public static void main (String[] args) {
     // Declare constants

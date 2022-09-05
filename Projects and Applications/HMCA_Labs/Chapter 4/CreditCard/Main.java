@@ -1,6 +1,6 @@
 /*
 Name: Caleb Han
-Program: RiggedCoin
+Program: CreditCard
 Purpose: Credit card simulator
 */
 

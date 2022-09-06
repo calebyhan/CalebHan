@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Static Template</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+    <a name="top"></a>
+    <div class="navbar">
+      <div>
+        <a href="index.html"><img src="pics/logo111.png" alt="logo" width="400" height="90" /></a>
+      </div>
+      <div>
+        <a href="Features.html"><img src="pics/features.jpg" alt="features" width="150" height="101"></a>
+        <a href="AU.html"><img src="pics/aboutus.jpg" alt="about us" width="150" height="96"></a>
+      </div>
+    </div>
+    <div class="bcenter">
+      <hr class="solid">
+      <h3>Contact us:</h3>
+      <p>Email: <a href="blankemail@gmail.com">blankemail@gmail.com</a></p>
+      <p>Phone: (123)-456-7890</p>
+      <p>Service hours: 10AM - 6PM EST (M-F)</p>
+      <p>Headquarters: 123 Vaccine Lane, City, State 12345</p>
+      <h3>Contact us below for urgent needs.</h3>
+      <form method="GET" action="mailto:test@example.com" enctype="text/plain">
+        <div>First Name</div>
+        <input fname="FName" />
+        
+        <div>Last Name</div>
+        <input lname="NName" />
+
+        <div>E-Mail</div>
+        <input name="E-Mail Address" />
+    
+        <div>Message</div>
+        <textarea name="Message"></textarea>
+    
+        <br/>
+        <input type="submit" value="Send" />
+    
+        <input type="hidden" name="body" />
+    </form>
+    
+    <script>
+       var form = document.getElementsByTagName('form')[0];
+       form.addEventListener('submit',contact,false);
+       function contact(e) {
+          // Prevent Default Form Submission
+          e.preventDefault();
+    
+          var target = e.target || e.srcElement;
+          var i = 0;
+          var message = '';
+    
+          // Loop Through All Input Fields
+          for(i = 0; i < target.length; ++i) {
+             // Check to make sure it's a value. Don't need to include Buttons
+             if(target[i].type != 'text' && target[i].type != 'textarea') {
+                    // Skip to next input since this one doesn't match our rules
+                continue;
+             }
+    
+             // Add Input Name and value followed by a line break
+             message += target[i].name + ': ' + target[i].value + "\r\n";
+          }
+          // Modify the hidden body input field that is required for the mailto: scheme
+          target.elements["body"].value = message;
+    
+          // Submit the form since we previously stopped it. May cause recursive loop in some browsers? Should research this.
+          this.submit();
+       }
+    </script>
+      <!-- <p>Reason for contact:</p>
+      <input type="checkbox" id="vehicle1" name="support" value="Support">
+      <label for="reason1">Support</label><br>
+      <input type="checkbox" id="vehicle2" name="question" value="Question">
+      <label for="reason2">Question</label><br>
+      <input type="checkbox" id="vehicle3" name="feedback" value="Feedback">
+      <label for="reason3">Feedback</label><br>
+      <p></p>
+      <input type="submit" value="Submit"> -->
+    </div>
+    <div class="navbar-bottom">
+      <a href="index.html">Home</a>
+      <a href="Features.html">Features</a>
+      <a href="AU.html">About us</a>
+      <a href="contact.html" class="active">Contact</a>
+      <a href="donate-order.html">Order/donate</a>
+      <a href="updates-blog.html">Updates/blog</a>
+      <a style="float: right;" href="#top">Jump to top</a>
+    </div>
+  </body>
+</html>

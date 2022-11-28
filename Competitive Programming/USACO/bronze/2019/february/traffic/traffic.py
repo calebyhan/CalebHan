@@ -1,0 +1,1 @@
+with open("traffic.in", "r") as f:

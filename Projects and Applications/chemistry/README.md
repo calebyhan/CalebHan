@@ -40,40 +40,40 @@ chemistry.Formulas(moles=1, volume=1)
 chemistry-ch offers 3 sub-files as well as constants:
 
 ``` python
-import chemistry.conversions
-import chemistry.formulas
-import chemistry.periodic
+import chemistry.Conversions
+import chemistry.Formulas
+import chemistry.Periodic
 ```
 
 
 ### Conversions
 ----------------------
 
-``chemistry.conversions.k_to_c(k)``
+``chemistry.Conversions.k_to_c(k)``
 
 Inputs kelvin and converts to celcius.
 
-``chemistry.conversions.k_to_f(k)``
+``chemistry.Conversions.k_to_f(k)``
 
 Inputs kelvin and converts to fahrenheit.
 
-``chemistry.conversions.c_to_k(c)``
+``chemistry.Conversions.c_to_k(c)``
 
 Inputs celcius and converts to kelvin.
 
-``chemistry.conversions.c_to_f(k)``
+``chemistry.Conversions.c_to_f(k)``
 
 Inputs celcius and converts to fahrenheit.
 
-``chemistry.conversions.f_to_k(k)``
+``chemistry.Conversions.f_to_k(k)``
 
 Inputs fahrenheit and converts to kelvin.
 
-``chemistry.conversions.f_to_c(k)``
+``chemistry.Conversions.f_to_c(k)``
 
 Inputs fahrenheit and converts to celcius.
 
-``chemistry.conversions.metric(num, pre1, pre2)``
+``chemistry.Conversions.metric(num, pre1, pre2)``
 
 Inputs a value and starting prefix and final prefix to return converted value.
 
@@ -81,11 +81,11 @@ Inputs a value and starting prefix and final prefix to return converted value.
 ### Formulas
 ----------------------
 
-``chemistry.forumulas.atomicWeight(weights)``
+``chemistry.Formulas.atomicWeight(weights)``
 
 Input 2D array of atomic weights and percentages to find overall atomic weight.
 
-``chemistry.forumulas.molarity(molarity, moles, volume)``
+``chemistry.Formulas.molarity(molarity, moles, volume)``
 
 Input two of molarity, moles, and volume and outputs the third.
 
@@ -95,79 +95,80 @@ Input two of molarity, moles, and volume and outputs the third.
 
 NOTE: All inputs work in element symbol or number.
 
-``chemistry.periodic.name(ele)``
+``chemistry.Periodic.name(ele)``
 
 Input element and return element name.
 
-``chemistry.periodic.number(ele)``
+``chemistry.Periodic.number(ele)``
 
 Input element and return atomic number.
 
-``chemistry.periodic.symbol(ele)``
+``chemistry.Periodic.symbol(ele)``
 
 Input element and return symbol.
 
-``chemistry.periodic.mass(ele)``
+``chemistry.Periodic.mass(ele)``
 
 Input element and return atomic mass.
 
-``chemistry.periodic.elecConfig(ele)``
+``chemistry.Periodic.elecConfig(ele)``
 
 Input element and return electron configuration.
 
-``chemistry.periodic.position(ele)``
+``chemistry.Periodic.position(ele)``
 
 Input element and return its position in (period, group).
 
-``chemistry.periodic.elecNeg(ele)``
+``chemistry.Periodic.elecNeg(ele)``
 
 Input element and return electronegativty.
 
-``chemistry.periodic.atomRadius(ele)``
+``chemistry.Periodic.atomRadius(ele)``
 
 Input element and return atomic radius.
 
-``chemistry.periodic.ionRadius(ele)``
+``chemistry.Periodic.ionRadius(ele)``
 
 Input element and return ionic radius.
 
-``chemistry.periodic.standardState(ele)``
+``chemistry.Periodic.standardState(ele)``
 
 Input element and return its standard state.
 
-``chemistry.periodic.ionEnergy(ele)``
+``chemistry.Periodic.ionEnergy(ele)``
 
 Input element and return ionization energy.
 
-``chemistry.periodic.elecAffinity(ele)``
+``chemistry.Periodic.elecAffinity(ele)``
 
 Input element and return electron affinity.
 
-``chemistry.periodic.meltingPoint(ele)``
+``chemistry.Periodic.meltingPoint(ele)``
 
 Input element and return melting point.
 
-``chemistry.periodic.boilingPoint(ele)``
+``chemistry.Periodic.boilingPoint(ele)``
 
 Input element and return boiling point.
 
-``chemistry.periodic.block(ele)``
+``chemistry.Periodic.block(ele)``
 
 Input element and return block
 
-``chemistry.periodic.year(ele)``
+``chemistry.Periodic.year(ele)``
 
 Input element and return year discovered
 
-``chemistry.periodic.groupBlock(ele)``
+``chemistry.Periodic.groupBlock(ele)``
 
 Input element and return group block
 
-``chemistry.periodic.oxidationStates(ele)``
+``chemistry.Periodic.oxidationStates(ele)``
 
 Input element and return possible oxidation states in a list
 
-``chemistry.periodic.molar_mass(molecule)``
+``chemistry.Periodic.molar_mass(molecule)``
+
 Input molecule and return molar mass.
 
 

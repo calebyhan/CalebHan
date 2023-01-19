@@ -1,5 +1,3 @@
-**Project Portfolio: https://github.com/calebyhan/CalebHan** 
-
 # chemistry-ch
 
 Python library for chemistry equations and formulas.

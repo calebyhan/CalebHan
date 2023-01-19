@@ -1,4 +1,3 @@
-import game
 import time
 import board
 
@@ -7,11 +6,6 @@ playAgain = "y"
 print("\nWelcome to Tic-Tac-Toe. Place your marker by selecting a number on this refernce board, provided that the space is not occupied already. The board will be updated every turn. Have fun!\n")
 print(" 0 | 1 | 2 \n-----------\n 3 | 4 | 5 \n-----------\n 6 | 7 | 8 \n")
 input("Enter anything to continue once you understand the rules.\n")
-
-while playAgain != "n":
-    game()
-    playAgain = input("Would you like to play again? (y/n): ")
-    print()
 
 def game():
     '''
@@ -27,10 +21,13 @@ def game():
             print("Your move.")
             while True:
                 user_input = int(input("Enter your move: "))
-                if board1.place(user_input) == False:
-                    print("That place is taken. Try again.")
-                else:
-                    break
+                try:
+                    if board1.place(user_input) == False:
+                        print("That place is taken. Try again.")
+                    else:
+                        break
+                except:
+                    print("Invalid move. try again.")
             print(board1)
         else:
             print("My turn.\n")
@@ -48,3 +45,8 @@ def game():
         elif check_end == 0:
             print("You lost.")
             end = False
+
+while playAgain != "n":
+    game()
+    playAgain = input("Would you like to play again? (y/n): ")
+    print()

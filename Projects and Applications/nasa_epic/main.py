@@ -4,8 +4,8 @@ import math
 import shutil
 
 # api keys
-NASA_API = "EaMt8EVyiRHMnIsmQCn4ahzqrvlgfxON2txlxaEw"
-COORDS_API = "5ebf502c2b1602950b1595862ea3d565"
+NASA_API = ""
+COORDS_API = ""
 
 # format user input for city
 while True:

@@ -24,7 +24,7 @@ while True:
             print("Error: invalid location. Try again.")
 
 # get date
-date = input("Enter a date to search or nothing to get a random date (YYYY-MM-DD): ")
+date = input("Enter a date to search (YYYY-MM-DD): ")
 date = datetime.strptime(date, "%Y-%m-%d")
 if len(str(date.day)) > 1:
     date = str(date.year) + "-" + str(date.month) + "-" + str(date.day)

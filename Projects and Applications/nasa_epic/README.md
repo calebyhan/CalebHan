@@ -1,6 +1,6 @@
 Inputs either city or longitude/latitude and date to find photo with the closest location to the city.
 
-Uses [OpenWeather Api](https://openweathermap.org/api/geocoding-api) api for longitude and latitude from city name, and [Nasa Api](https://api.nasa.gov/) for the images).
+Uses [OpenWeather Api](https://openweathermap.org/api/geocoding-api) api for longitude and latitude from city name, and [Nasa Api](https://api.nasa.gov/) for the images.
 
 Example runthrough:
 ```

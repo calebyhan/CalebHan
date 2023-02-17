@@ -1,0 +1,249 @@
+Country,Code,Slug
+Gambia,GM,gambia
+Paraguay,PY,paraguay
+Trinidad and Tobago,TT,trinidad-and-tobago
+Austria,AT,austria
+Sao Tome and Principe,ST,sao-tome-and-principe
+Timor-Leste,TL,timor-leste
+Albania,AL,albania
+Chile,CL,chile
+Kyrgyzstan,KG,kyrgyzstan
+Nepal,NP,nepal
+Uzbekistan,UZ,uzbekistan
+British Indian Ocean Territory,IO,british-indian-ocean-territory
+Cook Islands,CK,cook-islands
+Cuba,CU,cuba
+Samoa,WS,samoa
+Jamaica,JM,jamaica
+Peru,PE,peru
+Antigua and Barbuda,AG,antigua-and-barbuda
+Belarus,BY,belarus
+Isle of Man,IM,isle-of-man
+Lesotho,LS,lesotho
+Malawi,MW,malawi
+Slovenia,SI,slovenia
+ALA Aland Islands,AX,ala-aland-islands
+Ethiopia,ET,ethiopia
+Spain,ES,spain
+Vanuatu,VU,vanuatu
+Mongolia,MN,mongolia
+Sri Lanka,LK,sri-lanka
+Mozambique,MZ,mozambique
+Myanmar,MM,myanmar
+Wallis and Futuna Islands,WF,wallis-and-futuna-islands
+Cyprus,CY,cyprus
+Gabon,GA,gabon
+Guatemala,GT,guatemala
+Guinea,GN,guinea
+Liechtenstein,LI,liechtenstein
+Saint-Barth�lemy,BL,saint-barth�lemy
+Seychelles,SC,seychelles
+South Sudan,SS,south-sudan
+Canada,CA,canada
+Georgia,GE,georgia
+Gibraltar,GI,gibraltar
+Lao PDR,LA,lao-pdr
+Western Sahara,EH,western-sahara
+Algeria,DZ,algeria
+Grenada,GD,grenada
+Guernsey,GG,guernsey
+Germany,DE,germany
+Jordan,JO,jordan
+Virgin Islands, US,VI,virgin-islands
+Tunisia,TN,tunisia
+Hungary,HU,hungary
+Pitcairn,PN,pitcairn
+Singapore,SG,singapore
+Belgium,BE,belgium
+San Marino,SM,san-marino
+US Minor Outlying Islands,UM,us-minor-outlying-islands
+Nicaragua,NI,nicaragua
+Senegal,SN,senegal
+Cocos (Keeling) Islands,CC,cocos-keeling-islands
+Czech Republic,CZ,czech-republic
+Estonia,EE,estonia
+Bahamas,BS,bahamas
+Burkina Faso,BF,burkina-faso
+Norfolk Island,NF,norfolk-island
+Honduras,HN,honduras
+Republic of Kosovo,XK,kosovo
+Netherlands,NL,netherlands
+Yemen,YE,yemen
+American Samoa,AS,american-samoa
+Azerbaijan,AZ,azerbaijan
+Moldova,MD,moldova
+Mexico,MX,mexico
+Oman,OM,oman
+Saint Helena,SH,saint-helena
+Ukraine,UA,ukraine
+Dominican Republic,DO,dominican-republic
+Hong Kong, SAR China,HK,hong-kong-sar-china
+Ireland,IE,ireland
+Martinique,MQ,martinique
+South Africa,ZA,south-africa
+Zimbabwe,ZW,zimbabwe
+Bhutan,BT,bhutan
+Guadeloupe,GP,guadeloupe
+Kenya,KE,kenya
+Kuwait,KW,kuwait
+Christmas Island,CX,christmas-island
+Indonesia,ID,indonesia
+Bouvet Island,BV,bouvet-island
+Portugal,PT,portugal
+Saudi Arabia,SA,saudi-arabia
+Thailand,TH,thailand
+Bahrain,BH,bahrain
+Ghana,GH,ghana
+New Zealand,NZ,new-zealand
+Pakistan,PK,pakistan
+R�union,RE,r�union
+Mayotte,YT,mayotte
+Romania,RO,romania
+Japan,JP,japan
+Tokelau,TK,tokelau
+Viet Nam,VN,vietnam
+Cameroon,CM,cameroon
+Equatorial Guinea,GQ,equatorial-guinea
+Eritrea,ER,eritrea
+Iceland,IS,iceland
+Solomon Islands,SB,solomon-islands
+Uruguay,UY,uruguay
+Argentina,AR,argentina
+Bermuda,BM,bermuda
+Niger,NE,niger
+Sierra Leone,SL,sierra-leone
+Swaziland,SZ,swaziland
+Tuvalu,TV,tuvalu
+Angola,AO,angola
+Kiribati,KI,kiribati
+Ecuador,EC,ecuador
+Micronesia, Federated States of,FM,micronesia
+Congo (Kinshasa),CD,congo-kinshasa
+France,FR,france
+Poland,PL,poland
+Syrian Arab Republic (Syria),SY,syria
+Svalbard and Jan Mayen Islands,SJ,svalbard-and-jan-mayen-islands
+United Kingdom,GB,united-kingdom
+Chad,TD,chad
+French Southern Territories,TF,french-southern-territories
+Netherlands Antilles,AN,netherlands-antilles
+Montenegro,ME,montenegro
+Botswana,BW,botswana
+Cambodia,KH,cambodia
+El Salvador,SV,el-salvador
+Greenland,GL,greenland
+Luxembourg,LU,luxembourg
+Suriname,SR,suriname
+Costa Rica,CR,costa-rica
+Egypt,EG,egypt
+Afghanistan,AF,afghanistan
+Bulgaria,BG,bulgaria
+Panama,PA,panama
+British Virgin Islands,VG,british-virgin-islands
+Niue,NU,niue
+Uganda,UG,uganda
+Djibouti,DJ,djibouti
+Faroe Islands,FO,faroe-islands
+Korea (South),KR,korea-south
+Serbia,RS,serbia
+India,IN,india
+South Georgia and the South Sandwich Islands,GS,south-georgia-and-the-south-sandwich-islands
+Saint Lucia,LC,saint-lucia
+Bosnia and Herzegovina,BA,bosnia-and-herzegovina
+Cayman Islands,KY,cayman-islands
+Dominica,DM,dominica
+French Polynesia,PF,french-polynesia
+Montserrat,MS,montserrat
+Palau,PW,palau
+Puerto Rico,PR,puerto-rico
+Macao, SAR China,MO,macao-sar-china
+Marshall Islands,MH,marshall-islands
+Morocco,MA,morocco
+Rwanda,RW,rwanda
+Iran, Islamic Republic of,IR,iran
+Iraq,IQ,iraq
+Lebanon,LB,lebanon
+Fiji,FJ,fiji
+Holy See (Vatican City State),VA,holy-see-vatican-city-state
+Liberia,LR,liberia
+Anguilla,AI,anguilla
+Colombia,CO,colombia
+Monaco,MC,monaco
+Turkey,TR,turkey
+Burundi,BI,burundi
+Guam,GU,guam
+Guinea-Bissau,GW,guinea-bissau
+Haiti,HT,haiti
+Bangladesh,BD,bangladesh
+C�te d'Ivoire,CI,cote-divoire
+Greece,GR,greece
+Saint Pierre and Miquelon,PM,saint-pierre-and-miquelon
+Northern Mariana Islands,MP,northern-mariana-islands
+Central African Republic,CF,central-african-republic
+Lithuania,LT,lithuania
+Nigeria,NG,nigeria
+Malta,MT,malta
+Tanzania, United Republic of,TZ,tanzania
+Turkmenistan,TM,turkmenistan
+Turks and Caicos Islands,TC,turks-and-caicos-islands
+Australia,AU,australia
+Malaysia,MY,malaysia
+Mali,ML,mali
+Denmark,DK,denmark
+Palestinian Territory,PS,palestine
+Tonga,TO,tonga
+Venezuela (Bolivarian Republic),VE,venezuela
+Falkland Islands (Malvinas),FK,falkland-islands-malvinas
+French Guiana,GF,french-guiana
+Madagascar,MG,madagascar
+Taiwan, Republic of China,TW,taiwan
+Philippines,PH,philippines
+Somalia,SO,somalia
+Benin,BJ,benin
+Congo (Brazzaville),CG,congo-brazzaville
+Macedonia, Republic of,MK,macedonia
+Mauritania,MR,mauritania
+Armenia,AM,armenia
+China,CN,china
+Sudan,SD,sudan
+Antarctica,AQ,antarctica
+Sweden,SE,sweden
+New Caledonia,NC,new-caledonia
+Switzerland,CH,switzerland
+Belize,BZ,belize
+Brunei Darussalam,BN,brunei
+Comoros,KM,comoros
+Korea (North),KP,korea-north
+Libya,LY,libya
+Mauritius,MU,mauritius
+Qatar,QA,qatar
+Croatia,HR,croatia
+Guyana,GY,guyana
+Jersey,JE,jersey
+Saint Kitts and Nevis,KN,saint-kitts-and-nevis
+Togo,TG,togo
+United Arab Emirates,AE,united-arab-emirates
+Aruba,AW,aruba
+Finland,FI,finland
+Italy,IT,italy
+Zambia,ZM,zambia
+Heard and Mcdonald Islands,HM,heard-and-mcdonald-islands
+Saint-Martin (French part),MF,saint-martin-french-part
+United States of America,US,united-states
+Andorra,AD,andorra
+Russian Federation,RU,russia
+Brazil,BR,brazil
+Kazakhstan,KZ,kazakhstan
+Slovakia,SK,slovakia
+Norway,NO,norway
+Saint Vincent and Grenadines,VC,saint-vincent-and-the-grenadines
+Tajikistan,TJ,tajikistan
+Maldives,MV,maldives
+Namibia,NA,namibia
+Nauru,NR,nauru
+Barbados,BB,barbados
+Cape Verde,CV,cape-verde
+Israel,IL,israel
+Bolivia,BO,bolivia
+Latvia,LV,latvia
+Papua New Guinea,PG,papua-new-guinea

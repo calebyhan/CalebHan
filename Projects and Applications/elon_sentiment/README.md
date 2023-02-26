@@ -4,6 +4,8 @@ All tweets bar plot
 Average polarity over time
 ![Avg polarity](https://cdn.discordapp.com/attachments/905301278647783428/1079226671003086898/image.png)
 
+Unfortunately, due to lack of academic access, only last 7 days of replies are available. However, technically, this application would theoretically work with that access.
+
 Process:
 1. Gather tweets since Elon Musk bought twitter (October 27, 2022)
 2. Gather top 100 replies to those tweets (if less than 100 replies then gets all those replies)

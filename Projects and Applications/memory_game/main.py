@@ -42,7 +42,6 @@ def button_click(i, j):
         if itr == 1:
             if current[1] == sequence:
                 n = random.randint(0, 15)
-                print(n)
                 sequence.append(n)
                 for b in sequence:
                     x = b % 4

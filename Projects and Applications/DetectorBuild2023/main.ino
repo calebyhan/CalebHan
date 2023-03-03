@@ -28,7 +28,7 @@ void loop() {
   }
   sum_val/=avg_size; // take average
  
-  float grams = 1129277021159.1519 * pow(0.0072252, sum_val) - 24.94; // equation for converting volts to grams
+  float grams = (1.81 + (1.0e11 * exp(-4.52 * sum_val))) - 24.94; // equation for converting volts to grams
   if (sum_val == 5.00) {
     grams = 0;
   }

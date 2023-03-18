@@ -1,6 +1,6 @@
 ## Table of Contents
 
-- [Table of Conents](#table-of-conents)
+- [Table of Contents](#table-of-conents)
 - [Disclaimers and Preliminary Information](#disclaimers-and-preliminary-information)
 - [Methodology](#methodology)
 - [Results](#results)

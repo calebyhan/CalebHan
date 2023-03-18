@@ -362,6 +362,7 @@ Trials done on the days from March 13, 2023 - March 17, 2023. These trials are p
     <summary>Results</summary>
     
     `Total Revenue: -0.004340113855954668`
+
     `Percent Difference: 0.4340% loss`
 
     - - - -
@@ -696,6 +697,7 @@ Trials done on the days from March 13, 2023 - March 17, 2023. These trials are p
     <summary>Results</summary>
     
     `Total Revenue: -0.004236304314974817`
+
     `Percent Difference: 0.4236% loss`
 
     - - - -
@@ -1040,6 +1042,7 @@ Trials done on the days from March 13, 2023 - March 17, 2023. These trials are p
     <summary>Results</summary>
     
     `Total Revenue: 0.034039734138534596`
+
     `Percent Difference: 3.404% gain`
 
     - - - -
@@ -1325,6 +1328,7 @@ These trials are performed to determine the precision of the model over the same
     <summary>Results</summary>
     
     `Total Revenue: 0.002067417258120037`
+
     `Percent Difference: 0.2067% gain`
 
     - - - -
@@ -1658,6 +1662,7 @@ These trials are performed to determine the precision of the model over the same
     <summary>Results</summary>
     
     `Total Revenue: -0.02093371682068191`
+
     `Percent Difference: 2.093% loss`
 
     - - - -
@@ -2007,6 +2012,7 @@ These trials are performed to determine the precision of the model over the same
     <summary>Results</summary>
     
     `Total Revenue: 0.0063242488214527385`
+    
     `Percent Difference: 0.6324% gain`
 
     - - - -

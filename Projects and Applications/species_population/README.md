@@ -1,5 +1,3 @@
-**Project Portfolio: https://github.com/calebyhan/CalebHan**
-
 Analyzing the trends of vertebrate species populations. All data from [Living Planet Index](https://stats.livingplanetindex.org/)
 
 data.csv - original data

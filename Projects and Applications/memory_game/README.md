@@ -1,1 +1,0 @@
-Memory game in tkinter.

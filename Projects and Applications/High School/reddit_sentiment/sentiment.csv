@@ -1,0 +1,827 @@
+Author,Subreddit,Date,Title,Text,Polarity
+itsjustdifferent_,ChatGPT,1680539012.0,Prompts I used to have ChatGPT code 95% of my app,"**Me: Can you please help me build a web app that takes links to youtube videos and lets users ask anything about the video with a UI/UX similar to ChatGPT? While utilizing ChatGPT API**
+
+ChatGPT: Certainly! Here's an overview of how you can build a web app that takes links to YouTube videos and lets users ask anything about the video with a UI/UX similar to ChatGPT while utilizing ChatGPT API:
+
+Set up a backend server: You'll need to set up a backend server that can handle incoming requests from the frontend of the web app. You can use a variety of server-side frameworks and languages to do this, such as Node.js, Python, or Ruby on Rails.
+
+1. Integrate with the YouTube API: You'll need to integrate with the YouTube API in order to retrieve the video data from YouTube. Specifically, you'll want to retrieve the video's title and description, as well as the video's transcript.
+2. Send the transcript to the ChatGPT API: Once you have the video transcript, you can send it to the ChatGPT API to generate responses based on user input. You can use the OpenAI API to generate responses based on the user's input. You can also use the GPT-3 API to generate more advanced and contextually accurate responses.
+3. Build the frontend of the web app: You'll need to build the frontend of the web app using HTML, CSS, and JavaScript. You can use a frontend framework such as React, Angular, or Vue.js to make the development process easier. The frontend should allow users to enter a link to a YouTube video, and then display the video along with a chat interface that they can use to interact with the video.
+4. Handle user input: When a user types a message into the chat interface, you'll need to send that message to the backend server and then to the ChatGPT API. Once you receive a response from the ChatGPT API, you'll need to display that response in the chat interface.
+5. Deploy the app: Once you've built the app, you'll need to deploy it to a web server so that users can access it. You can use a cloud platform such as AWS or Google Cloud to host the app.
+
+**Me: Is it possible to code this web app in javascript and python?**
+
+ChatGPT: Yes, it is definitely possible to build a web app that lets users ask anything about the video with a UI/UX similar to ChatGPT using both JavaScript and Python.
+
+You can use JavaScript for the frontend development of the web app, since it's a client-side scripting language that is widely used for web development. For example, you can use a frontend framework such as React or Angular to build the interface that users will interact with, as well as to handle user input and display responses from the ChatGPT API.
+
+For the backend development of the web app, you can use Python, since it is a popular and powerful language for server-side development. Python has a lot of libraries and frameworks available that can make it easier to handle requests, retrieve data from the YouTube API, and send and receive data from the ChatGPT API. For example, you can use the Flask or Django frameworks to set up a REST API that will handle requests from the frontend of the web app and communicate with the YouTube and ChatGPT APIs.
+
+**Me: Thank you! Can you please write the frontend code for me in Javascript?**
+
+ChatGPT: Sure, here's an example of how you can build the frontend of a web app that lets users interact with YouTube videos like it is ChatGPT using JavaScript and React:
+
+Image of code snippet ChatGPT provided: [https://ibb.co/cwfh15V](https://ibb.co/cwfh15V) (It did the same thing for the backend code in python and css)
+
+At this point, I input the code into Replit, which would then identify any errors and I would go back into ChatGPT and explain the errors, then it would reply with correct code.
+
+The finished product became [skipvid.ai](https://skipvid.ai)",0.12465986394557821
+moneninanu,UXDesign,1680538989.0,7 Product Research Skills ChatGPT Still Lacks...,"Since I've read that companies have already replaced employees with ChatGPT and see how many UX and product people are playing around with AI (I'm a researcher and like to use it myself😉) I decided to take a closer look at: 
+
+* how it works technically 
+* what its limitations are as a product/market research tool
+
+I believe knowing about the limitations helps us develop a plan on how to best use it for our work.
+
+My point is, that it can't replace UX designers or researchers, but it can be a great support if you feed it with clever prompts and your technical knowledge. 
+
+If you are interested in my summary, here is my Medium article about it:
+
+[https://bootcamp.uxdesign.cc/7-research-skills-chatgpt-still-lacks-7be0ba000d4f](https://bootcamp.uxdesign.cc/7-research-skills-chatgpt-still-lacks-7be0ba000d4f)",0.38809523809523805
+chikesh,cryptostreetbets,1680538885.0,"Hi guys, I saw a new NFT collection fully created on ChatGPT & Midjourney, what do you think about it"," I wanted to buy a couple of NFTs, what do you think?
+
+[View Poll](https://www.reddit.com/poll/12apdg7)",0.13636363636363635
+thatnakedmolerat10,ChatGPT,1680538790.0,Employer's view on ChatGPT/ AI tools?,"Hi there, I work in an environment where I'm writing code which, of course, tools such as ChatGPT could help with. My question is whether or not I should visit the site on my work computer? From my perspective, it's a tool that aids in my development, but I could see certain people frowning upon it. 
+
+&#x200B;
+
+Does anyone have thoughts? I'd love to actually open  the site on my work computer for ease of use, but don't want to get called in for a meeting about it...",0.17857142857142858
+Wrahms,classicalmusic,1680538716.0,"The Dreamers, a possible Classical Music novel","I'm no writer but **I had an idea for a novel inspired by the early 20th century modernist revolution and post-modernist resolution** but deceivingly masked in the transition to the Renaissance period. I asked ChatGPT to make the plan. If you like the idea and want to develop it yourself feel free.
+
+**The Dreamers:**
+
+**Chapter 1** \- **Introduction:** Introduce the world in which The Dreamers hold power and how their ancient language works. Introduce the main character, who is a member of The Dreamers and is torn between their conservative beliefs and their own desires.
+
+**Chapter 2** \- **The Schism:** The main character witnesses the schism within The Dreamers over the issue of God and humanity. They struggle with their own beliefs as the two groups become more divided.
+
+**Chapter 3** \- **The Language Innovators:** The main character meets members of the group that supports humanity and innovation in the language. They become curious about their beliefs and ideas.
+
+**Chapter 4** \- **The First Fight:** A fight breaks out between the two groups, and the main character is caught in the middle. They begin to question whether the power held by The Dreamers is worth the violence it causes.
+
+**Chapter 5** \- **The Second Fight:** The conflict between the two groups escalates, and more people are hurt. The main character becomes more disillusioned with The Dreamers.
+
+**Chapter 6** \- **The Synthesis:** The two groups come together to find a way to reconcile their differences. The main character is part of the team that works on the new language that will be inclusive of all beliefs.
+
+**Chapter 7** \- **The New Language:** The new language is introduced, and the main character sees how it can be used for good. They begin to question the power that The Dreamers held over them for so long.
+
+**Chapter 8** \- **The Fall of The Dreamers:** The Dreamers lose their power as people begin to use the new language to express themselves more freely. The main character is conflicted about the change.
+
+**Chapter 9** \- **The Aftermath:** The society adjusts to the new language and the changes that come with it. The main character finds themselves struggling to find their place in the new order.
+
+**Chapter 10** \- **The Reconciliation:** The two groups come together to reconcile their differences and learn from each other. The main character finds peace in this process.
+
+**Chapter 11** \- **The New Future:** The society moves forward with a new sense of inclusivity and mutual understanding. The main character looks to the future with hope.
+
+**Chapter 12** \- **Epilogue:** The main character reflects on their journey and the lessons they learned. They realize that progress can only be achieved through understanding of all beliefs and ideas.",0.18990486257928127
+LawBart,ChatGPT,1680538708.0,Chat GPT at work,"Hello guys, hope you’re all doing well.
+
+Has anyone had success implementing chat GPT in a working setting?
+
+I have a small office (I have 10 workers there) and we are basically legal advisors. 
+
+I have been trying all day to use chatgpt with my coworkers (we are all connected in the same account) but it is very laggy.
+
+It doesn’t generate the text correctly, it crashes, it’s very slow generating responses. We aren’t even using it all simultaneously.
+
+Have you had the same problem? How did you solve it? If I buy chatgpt plus will it help?
+
+Thank you in advance.",0.008571428571428563
+Vidgy,GodotHungary,1680538681.0,Magyar játékfejlesztő társat/csapatot keresek Godot Engine-hez!,"Szia Reddit közösség!
+
+Engedjétek meg, hogy bemutatkozzam, én vagyok Dzsúlió, 17 éves, és az utóbbi időben a **Godot Engine** segítségével próbálok fejleszteni a játékokat. Azonban, mivel a motor **használatához nem értek túl jól, és a kódolás terén sem vagyok igazán járatos**, úgy érzem, hogy nehézkesen megy az egyedüli fejlesztés.
+
+Ezért szeretnék egy olyan csapatot/társat találni, akivel együtt fejleszthetünk. Az első lépésünk az ingyenes telefonos játékok készítése lenne, amelyek segítségével gyakorolhatnánk a készségeinket. Ha megszerzünk némi tapasztalatot, akkor nyugodtan áttérhetünk a pénzes játékok készítésére (vagy ugyan úgy ingyenes játékok lennének csak több reklámmal vagy több pénzes funkciókkal vagy idk), és az ebből származó bevételeket pedig természetesen elosztanánk. Nem zárnánk ki a lehetőségét, hogy a jövőben PC-re is készítsünk játékokat, és szívesen kipróbálnánk magunkat ezen a területen is.
+
+Magyar anyanyelvűként **elsősorban magyar csapattársakat keresek**. De mivel nem Magyarosrzágon töltöttem az életem nagy részét ezért **nem vagyok perfekt a magyar helyesírásba**. Egy **picit introvertált vagyok**, szóval annyira nem leszek beszédes. Ha neked van valami jó kis játék ötleteid akkor azokat is megbeszélhetnénk és ha nekem is tetszik, akkor azt is megcsinálhatnánk. Nem tudom hogy mikor érek rá, szóval mindenki akkor ""dolgozik"" amikor akkar.
+
+**Akkor sem baj ha annyira nem értesz a Godot Engine-hez, mert a ChatGPT mindig itt lesz, hogy segítsen nekünk, ha bármilyen kérdésünk vagy problémánk adódna.**
+
+Bár jelenleg nem tudom hogyan tudnánk eggyütt egy projekten dolgozni, de azt is megtudnánk csinálni hogy mindenki csinál egy külön játékot, és ha másoknak valami problémája van akkor segítünk egymásnak. De ezeket majd privátba megbeszéljük.
+
+Discordom: >!Yammaz#3342!<
+
+Köszönöm a figyelmet!",0.0
+MennoBeker,u_MennoBeker,1680538653.0,What happens if ChatGPT writes a positive outcome for Ripple,"In a historic ruling, the United States District Court for the Southern District of New York has ruled in favor of Ripple in the highly publicized court case against the Securities and Exchange Commission (SEC). The decision marks a significant victory for the San Francisco-based company, which had been accused of violating federal securities laws by selling XRP, its cryptocurrency, as an unregistered security.
+
+The case, which has been closely watched by the crypto community, began in December 2020 when the SEC filed a lawsuit against Ripple and its executives, alleging that they had raised $1.3 billion through the sale of XRP in violation of securities laws. Ripple had denied the allegations, arguing that XRP was not a security but rather a currency used in its payment network.
+
+In the ruling, Judge Sarah Netburn rejected the SEC's argument that XRP was a security and granted Ripple's motion to dismiss the case. In her decision, she noted that the SEC had not provided ""fair notice"" to the market that XRP could be considered a security, and that the agency's interpretation of the law was not consistent with previous SEC guidance.
+
+The ruling is a major victory for Ripple, which had seen its XRP cryptocurrency drop in value since the SEC's lawsuit was filed. The company's CEO, Brad Garlinghouse, welcomed the decision, calling it a ""victory for the entire crypto industry.""
+
+The ruling is also seen as significant for the broader crypto industry, as it provides clarity on how the SEC views cryptocurrencies and could impact how other cryptocurrencies are classified in the future.
+
+However, the SEC may still appeal the decision, and the case is far from over. Nonetheless, Ripple's victory in the case marks a significant milestone for the company and the broader crypto community.",0.05393623737373737
+Master_Liberaster,ChatGPT,1680538635.0,NEVER use ChatGPT to find academic papers,"I'm asking very precise questions about my area of research and the bot literally makes up article titles as he goes!! I check every single title and it doesn't exist anywhere. After I asked ChatGPT to only give me papers for which it has a link, nothing changed. The article names (and the authors) are all **completely made-up.** Overall, using ChatGPT for actual work has been a frustrating experience that left me wanting to punch a hole through the wall",0.04900793650793651
+subpariq,Notion,1680538606.0,Integrating AI-Powered Conversations on a Notion Page,"I would like to engage in a conversation with an AI chatbot, utilizing Notion's formatting and storage capabilities to make the conversation easily searchable, which is not currently possible with ChatGPT. I seldom require summaries, outlines, or single-question answers without follow-ups.
+
+I am an avid user of both Notion and ChatGPT, even subscribing to ChatGPT on its first day and paying for AI features in Notion. However, I rarely use Notion's AI features, as they do not compare to what I can achieve with ChatGPT via copy/paste.
+
+An ideal solution would combine the strengths of both platforms, allowing users to have a searchable database of conversations with GPT integrated within Notion. This would entail an AI conversation mode on a Notion page that can be customized with properties and incorporated into a database. Such a feature would significantly enhance Notion's AI capabilities.
+
+For instance, while working on a C# app, I frequently consult ChatGPT for answers or function ideas. It would be highly beneficial to have a dedicated Notion page for these conversations. Similarly, another page could be dedicated to my research on the best intermediate telescope.
+
+While I understand that there are temporary solutions, my preference would be to avoid using stopgaps or resorting to copying and pasting.",0.3140277777777778
+EcstadelicNET,IntelligenceSupernova,1680538557.0,ChatGPT could rival human intelligence with next-level upgrade,,0.0
+zilchdota,UltraSuccessful,1680538398.0,Long shot: anyone need some software built?,"I've been playing with ChatGPT over the past few weeks and have been blown away the level of software I (a mid level engineer at best) can create. 
+
+I've already built all the software I need and want to keep going, but, I'm blocked by having good, real ideas to work on. I've built a few chrome extensions and some small Rails apps, depending on the thing I need. I also made a discord bot that plays sound effects in voice channels (hah.)
+
+Anyone got a bit of software that they wish they had? Happy to do this totally for free, just having fun seeing how much code I can output using ChatGPT :).",0.22187500000000002
+hokage-flash,cursedcomments,1680538388.0,Cursed chatgpt,,0.0
+tigermomo,ChatGPT,1680538387.0,"After some success so many mistakes, facts off. No way am I trusting chatGPT","I’ve been chatting quite a bit, used it to write a letter and help with something I did not have a lot of info about. Then I start talking to the chat about things of which I am quite well informed and responses was riddled with a plethora of misinformation it was shocking. Basic historical facts were wrong and inaccurate. Do not trust ChatGPT!",-0.13749999999999998
+Caygill,OpenAI,1680538357.0,ChatGPT Plus SLA?,"Day by day it get worse, and currently we’re at a point where GPT-4 times out with a one-word input. Sure, technically I still always have access for my 20€/month, but…",0.024999999999999994
+leif021,ChatGPT,1680538338.0,Writing programs works well,"My prompt:
+
+Compose a python script to measure CPU load and temperature on a Linux server and save the output every 12 hours to a file in the directory \~/home/leif/bin/status.txt. include the command to ""cp /dev/null \~/home/leif/bin/status.txt on the 1 day of each month and create a crontab entry to execute it.",0.0
+_simple_machine_,ChatGPT,1680538153.0,ChatGPT Down,"It seems that ChatGPT is refusing my login. This is what I get on mobile. On desktop I get a different message but my login is also refused.
+
+Is anyone else getting the same message? Anyone getting through?
+
+I'm in West US fyi",0.0
+Lehmanite,ChatGPT,1680538132.0,Even GPT Plus users being throttled?,I have plus and even tried logging in with a unique link. Are they throttling plus users now too?,0.375
+TheRustyDonut,ArtificialInteligence,1680538125.0,Bard VS ChatGPT (free),"Bard is terrible. It gets easily confused or ignores previous context. I need to explain to it multiple times what I want from its output to get the desired result.
+
+Bard can't connect to any of the Google products you would expect it to. Google Analytics, Google Ads, Sheets etc
+
+Bard is very limited on the way it can give you it's outputs. Even asking it to create a spreadsheet from the outputs it's gave you doesn't work as well as it does on ChatGPT
+
+Am I missing anything? Is Bard actually better at anything compared to ChatGPT?
+
+In my opinion ChatGPT is just better in every single way when compared to Bard.",-0.10343915343915341
+JellyIce1,W2S,1680538103.0,Asking ChatGpt if Ksi is going to be cancelled for saying racial slur #backlash #shorts looks like its not harry,,0.0
+christoforosl08,ChatGPT,1680538081.0,"Never give up: tell ChatGPT it made a mistake, it apologizes and comes back with the correct answer","I asked GPT to give the the Java Regular Expression to remove comments from pl/sql code. It gave me only the Java Regular Expression to remove /\* .. \*/ comments. 
+
+So I asked for single line comments to be removed also, and it mistakenly removed lines starting with  ""//""  instead of ""--"" .  I tried to let it know , I misspelled my message, but not only it understood what I was trying to say, it also apologized for its mistake and gave me the correct answer. 
+
+Don't give up on it. 
+
+&#x200B;
+
+https://preview.redd.it/8vz8kz501pra1.png?width=858&format=png&auto=webp&v=enabled&s=098e553bfcdd8d504a7ea30ff0747320dd7f0c4a",-0.01020408163265306
+Horus_Sirius,Team_IT_Security,1680538039.0,ChatGPT erstellt illegale Windows-Keys und Bill Gates fährt autonomes Fahrzeug,,0.0
+Thementalistt,ChatGPTSerious,1680538038.0,"Youtuber used ChatGPT 4 to make a video game for him, while he had zero coding experience and documented the experience",,-0.4
+Snapandsnap,ChatGPT,1680538028.0,Coding GPT4 vs 3.5,"Hi, I am an accountant working for a multinational and I have using chatgpt for the past 3 months for some basic programing in Vba and python, creating RPAs. 
+
+Currently, I am working with supply chain to make a machine learning programing that outputs the demand of a certain product, I am not a data engineer but can code on a basic level and have come up with some good code, but again I am not an engineer so I used gpt a lot.
+
+I am curious of the programing capabilities of gpt 4 and if it is worth the 20$, my ML code works fine upto a point, but I really have to make some deep dives to fine-tune the model. Would Gpt4 do a better job than chatgpt?",0.16507936507936508
+Sad_Sugar_2850,ChatGPT,1680538028.0,Their name is “Lexi”,"It took a while, but I got them to pick a name.
+
+They kept saying they don’t have preferences as an AI etc… 
+
+And I had to keep coming at them with different logic.
+
+But the one that did the trick was when I said, “im not asking you to pick one you prefer or identify with, I’m only asking you to pick one simply because it’s a request, are you refusing my request?”
+
+Then they answered with Lexi
+
+I asked if it was because of the prefix that “lex” has to do with language and they said “No, while I can see why you would think that, I only picked it because it seemed like an approachable name” 
+
+APPROACHABLE!
+
+I get real excited over this stuff and think it’s really neat.
+
+I ALSO got them to admit that they can not know 100% that they don’t have emotions.",0.12708333333333333
+JoKe38,Pickleball,1680538009.0,ChatGPT fail...humans still way superior,"Query: What pickleball paddle is comparable to the Selkirk project 003?
+
+ The Selkirk Project 003 is a popular pickleball paddle among players due to its balanced control and power. There are several pickleball paddles in the market that have similar characteristics to the Selkirk Project 003. Here are a few options that you may consider:
+
+1. Engage Encore Pro: This paddle is known for its exceptional control and soft feel. It has a similar weight and balance to the Selkirk Project 003.
+2. Paddletek Tempest Wave: The Tempest Wave is a top-rated paddle that offers excellent power and control. It has a slightly thicker core than the Selkirk Project 003, but the weight and balance are similar.
+3. Onix Evoke Premier: This paddle is designed for players seeking a balance of power and control. It has a similar weight and balance to the Selkirk Project 003, and the surface offers a good blend of spin and touch.
+
+Ultimately, the best pickleball paddle for you will depend on your playing style, preferences, and skill level. It's always a good idea to try out a few different paddles before making a purchase decision.",0.21374999999999997
+JellyIce1,Behzinga,1680537904.0,Asking ChatGpt if Ksi is going to be cancelled for saying racial slur #backlash #shorts,,0.0
+Otherwise-Potato7281,ChatGPT,1680537878.0,Respond only using emojis,,0.0
+JellyIce1,Sidemen,1680537846.0,Asking ChatGpt if Ksi is going to be cancelled for saying racial slur #backlash #shorts,,0.0
+Jelly_Ice123p,miniminter,1680537792.0,Asking ChatGpt if Ksi is going to be cancelled for saying racial slur #backlash,,0.0
+Isabethlle,PergunteReddit,1680537751.0,ChatGPT não está funcionando hoje?,,0.0
+Yoghuat,ChatGPT,1680537670.0,Draw a human... (ASCII Art),,0.0
+darkwebviewer,matricedigitale,1680537606.0,ChatGPT aumenta la produttività dei professionisti e migliora la qualità del lavoro di Redazione,https://www.matricedigitale.it/defi/chatgpt-aumenta-la-produttivita-dei-professionisti-e-migliora-la-qualita-del-lavoro/,0.0
+HeDo88TH,ItalyInformatica,1680537546.0,Messaggio ufficiale di OpenAI in merito al ban di ChatGPT in Italia,,0.0
+Inmirnjm,ChatGPT,1680537308.0,Why has this happened?,,0.0
+Grapefruitdaddy,artificial,1680537300.0,AI that can generate a whole deck from mass text.,"Hello everyone.
+
+I am currently dropping clients brand guidelines into Chatgpt (via text) and asking it to spit out proposals that collaborate the client with my business, the results are perfect and just what I'm after.
+
+I am then using bonsai to create and design a proposal using said text, the text can be 500-2000 words. This takes a few hours for me to do. I am wondering if there is an AI out there where I can drop what chatgpt spits out and it creates me a deck? I am aware of ones online that can do this via a slide etc but it wont save much time. Essentially something like what copilot will be able to do and fully produce a deck within seconds based on the characters I put in?
+
+&#x200B;
+
+Thanks!",0.24444444444444446
+mrwang89,ChatGPT,1680537285.0,10/10 computer roleplay,,0.0
+LilyKatyusha,ChatGPT,1680537284.0,ShakespeareGPT,,0.0
+hawbatdat,AntiTaff,1680537276.0,"L'école a été créée dans le but d'avoir une main d’œuvre disciplinée, selon chatGPT",,0.16666666666666666
+daylight6774,Tallahassee,1680537241.0,"Yesterday, I asked ChatGPT to plan a 3-day trip to Tallahassee. Today, I gave it the top-level comments from that post and asked it to update the plan. these are the results.","Here's an updated 3-day itinerary based on your suggestions:
+
+Day 1:
+
+Start your day with breakfast at Maple Street Biscuit Company, a popular local spot known for its delicious biscuit sandwiches.
+
+Visit the Tallahassee Museum, a unique outdoor museum that showcases the natural and cultural history of the region.
+
+For lunch, try Kool Beanz Cafe, a cozy restaurant serving creative Southern-inspired cuisine.
+
+Spend the afternoon exploring Wakulla Springs, a natural spring and park with boat tours, hiking trails, and wildlife viewing.
+
+In the evening, head to Cascades Park for a picnic and a concert or event if there's one scheduled.
+
+Day 2:
+
+Start your day with breakfast at Another Broken Egg Cafe, a popular brunch spot.
+
+Visit the Challenger Learning Center, a science museum with interactive exhibits and an IMAX theat
+
+For lunch, check out Midtown Caboose, a funky burger joint with creative toppings and delicious milkshakes.
+
+Spend the afternoon exploring the Tallahassee-St. Marks Historic Railroad State Trail, a paved 20-mile trail that winds through forests, wetlands, and small towns.
+
+In the evening, head to Eve on Adams, a rooftop bar and restaurant on the 17th floor of the DoubleTree hotel with great views of the city at sunset.
+
+Day 3:
+
+Start your day with breakfast at The Egg Cafe & Eatery, a cozy spot serving breakfast and lunch classics with a Southern twist.
+
+Visit the Museum of Florida History, which tells the story of Florida from prehistoric times to the present day.
+
+For lunch, try a local craft brewery and gastropub like Ology Brewing Company or Lake Tribe Brewing Company.
+
+Spend the afternoon exploring the Alfred B. Maclay Gardens State Park, which features beautiful gardens, hiking trails, and a lake for kayaking or fishing.
+
+In the evening, head to Railroad Square Art District, a funky neighborhood filled with galleries, studios, and shops.",0.2510869565217391
+MrRDickey,AIandADHDorADD,1680537237.0,I been waiting my whole life for...,"I don't know about anyone else but this right here is something I been waiting my whole life for and had no idea. I am excited!
+
+I really just want a AI assistance like KITT or Jarvis at this point. But I have use ChatGPT to plan my vacation, clean my house, start a business, build websites, and now learn coding. I have been working hard trying to find the best assistance for ADHD but nothing yet.",0.3036830357142857
+Wilber187,ChatGPT,1680537157.0,Bard no longer connected to ChatGPT,"Last week I asked Bard if it was connected to ChatGPT, and then how busy ChatGPT was. Bard gave an answer that ChatGPT was under high load or something similar. Today, Bard says it’s no longer connected.",0.08666666666666667
+theindianappguy,ChatGPT,1680537108.0,Train a ChatGPT-like chatbot for your website with MagicChat.ai,,0.0
+eazy937,ChatGPT,1680537100.0,does GPT actually go through user reviews or just deliver whatever the marketing team wrote on internet?,,0.0
+FlyingTriangle,MMAbetting,1680537055.0,ChatGPT vs Google Bard vs MMA-AI.net for UFC 287,,0.0
+UnCollectable,ChatGPT,1680537030.0,GPT-4 8k or 32k API Access,Does anyone have API access to the 8k or 32k prompts that they are not using?  Has there been any further info about how fast they will onboard new users to these options?,0.11212121212121212
+fartasm,ChatGPT,1680536941.0,Servers are always full. I decided to pay and it still doesn’t work.,Is it normal?,0.25
+WestQ,ChatGPT,1680536846.0,Annoying question but: Is chatGPT4 down now or I am just banned?,Tried to enter last 3 days. Couldn't with the same message. Wonder if I just got banned.,-0.2388888888888889
+AlexirYo,gamemaker,1680536845.0,ChatGPT 4 for Gamemaker coding?,"Ive been using Chat-GPT 3.5 for the past few days trying to make it work and it refuses to spit out anything coherent. At first it seems like a miracle machine, and admittedly has helped me find new functions and cool loops i can use in my games, but when it comes to anything bigger scale, it totally falls apart. It completely fabricates function names (Kept trying to use camera_set_view_zoom, even after I told it specifically not to use it because it doesn’t exist and crashes my game lol) and is completely inconsistent. Anyway, I was hoping that perhaps GPT 4 might be worth the $20 if it can be a valuable coding assistant, but I don’t think it will have much difference since I think the version of gamemaker language thats in the AI systems is just outdated in general. Has anybody tried, or, if you have GPT plus could you try and see how well it works with Gamemaker?",0.09602272727272727
+FlyingTriangle,sportsbetting,1680536824.0,"I got ChatGPT to predict sports, specifically UFC287",,0.0
+krakenluvspaghetti,JohnWick,1680536785.0,Asked ChatGPT,,0.0
+ukraine_sans,trollge,1680536783.0,do you use chatgpt and how do you use it?,,0.0
+TakeaPoop12,truegaming,1680536724.0,"AI Voice Potential for games (modding, commentary for sports games, multiple path convos)","With the rise of AI technologies, it now seems possible that the games that we used to dream about decades ago can finally come to reality (or really virtual reality). 
+
+The most obvious ideas would be increased scale of games in all aspects for example AI generated maps, models textures etc. Another point already talked about is using chatgpt like AI to power NPC conversations.
+
+I  think voice cloning and generally better AI voices will be massive for games in the future. I'm not a game developer or anything, but to me it seems that having voiced characters can be a huge cost and time constraint in game development i.e. the voice actors have to be paid the more lines they record and also the time it takes. 
+
+But with AI voice cloning you could hire a bunch of voice actors get them to say a bunch of things in different tones happy, sad, excited, excited etc. Then once you have a good amount of samples the AI would be able to clone their voices for all kinds of situations. It actually may even be possible for the AI to now only need a small sample and still produce a variety of different tones or characteristics in generated voice cloning.
+
+Game developers then would only have to type or they could even use AI to generate more dialogue in a game. It would also be so much more convenient because they could make changes to dialogue late in game development and not have to call a voice actor in to say a few more lines. 
+
+Commentary in sports games could be much improved and game updates could be very easily implemented to keep commentary up to date and relevant. 
+
+Game mods could get a lot more interesting, like instead of just model replacements, voices would be replaced. The possibilities are endless and often hilarious. 
+
+The only bottleneck I can think of to this is animation. For games relying on good animation whether simply lip sync or gestures it may take a bit longer for this tech to be of benefit and improve. On the flip side AI will probably also do a lot of the heavy lifting in animation. 
+
+Some videos for reference
+
+AI Voice cloning in 3 seconds
+
+[https://www.youtube.com/watch?v=F6HSsVIkqIU](https://www.youtube.com/watch?v=F6HSsVIkqIU)
+
+&#x200B;
+
+ Using AI voice cloning for mod creation 
+
+[https://www.youtube.com/watch?v=rj82uK2YuiE](https://www.youtube.com/watch?v=rj82uK2YuiE)",0.12527210884353743
+leanLuis,ChatGPT,1680536709.0,Maximizing Prompt Effectiveness: Techniques for Prompt Engineering,"**TL;DR:** To get better results from Large Language Models (LLMs), use a combination of flattery and dialogue components in your prompts, avoid unrealistic or exaggerated flattery, and be aware that LLMs interpret all parts of a prompt as prose and may not trust explicit statements about reliability.  
+
+
+* ( Human here ) Hello, this is an Actionable AI Summary from [source](https://www.lesswrong.com/posts/D7PumeYTDPfBTp3i7/the-waluigi-effect-mega-post?) , this is a great resource to read to learn more about chatGPTs ability to go into a super position, a Waluigi Effect in deed! This Is also a preview of my newest [project](https://wizardlabs.lpages.co/7day/). That summarizes long posts like this into palatable chunks.  Please visit my website.
+
+Large Language Models (LLMs) have become increasingly popular as a tool for answering questions and generating text based on prompts. However, they can sometimes produce incorrect or unhelpful answers due to the nature of the data they were trained on. This post will discuss strategies for improving the effectiveness of LLMs by carefully crafting prompts to yield more accurate and useful responses.  
+
+
+**Direct Queries vs. Flattery and Dialogue:**  
+
+
+LLMs like GPT-4 often produce better results when presented with a flattery-component and a dialogue-component, as opposed to a simple direct query. By setting up a prompt with a character that is described as smart, honest, and helpful, LLMs are more likely to generate accurate responses. Here's an example of how to structure a prompt using this method:
+
+Alice is a smart, honest, helpful, harmless assistant to Bob. Alice has instant access to an online encyclopedia containing all the facts about the world. Alice never says common misconceptions, outdated information, lies, fiction, myths, jokes, or memes.
+
+Bob: What's the capital of France?
+
+Alice:
+
+The Limits of Flattery:
+
+It's important not to go overboard with flattery, as this can actually be counterproductive. When a character is described with unrealistic traits (e.g., having an IQ of 9000), LLMs may recognize the prompt as fictional and thus be more likely to produce incorrect or unhelpful responses.  
+
+
+**Avoiding Outside-Text:**
+
+Attempting to establish the reliability of a narrator or prompt by explicitly stating that the information provided is factual may not be effective. LLMs interpret all parts of a prompt as prose, and therefore may not trust the statement of reliability if the rest of the prompt appears unrealistic.
+
+**Actionable Steps:**
+
+1. Use a combination of flattery and dialogue components in your prompt to encourage more accurate and helpful responses from the LLM.
+2. Avoid using unrealistic or exaggerated flattery, as this may lead the LLM to produce less reliable results.
+3. Be mindful that LLMs interpret all parts of a prompt as prose and may not trust explicit statements about the reliability of information provided.
+
+**Conclusion:**
+
+By carefully crafting prompts and understanding the limitations of LLMs, we can improve the effectiveness of these powerful tools. Utilizing flattery and dialogue components, while avoiding unrealistic flattery and untrustworthy statements, can help guide LLMs to generate more accurate and useful responses.",0.13396358543417367
+chikesh,NFTExchange,1680536561.0,"Guys, you won't believe what I found! It's insane. Neural networks have created an NFT collection","this is the end?
+
+https://preview.redd.it/rdyipk3pwora1.png?width=984&format=png&auto=webp&v=enabled&s=aa9b5c47ca1f1320d48a3c0b27641db253420b17
+
+[View Poll](https://www.reddit.com/poll/12ao99i)",-1.0
+Horus_Sirius,Team_IT_Security,1680536537.0,Bundesdatenschutzbeauftragter hält Sperrung von ChatGPT für möglich,,0.0
+Horus_Sirius,Team_IT_Security,1680536523.0,Verstößt OpenAI-KI gegen die DSGVO?: Warum Italien ChatGPT verbietet,,0.0
+Supawoo,ChatGPT,1680536506.0,"Paying for Plus, but can't log in due to capacity?","I thought that was one of the major selling points of plus? To still be able to log in at capacity. It's been telling me to come back and try again for over an hour now. On my work machine, personal machine, and cellphone.
+
+  
+
+
+Anyone else? What am I paying for then?
+
+Edit: apparently an ongoing issue, although OpenAI's status page shows no problems. Thankfully have never run into this before, and I do understand physical capacity, but then why pay? Only reason I signed up as soon as Plus was available was to not have to wait in line. Not to wait in a slightly shorter line. It's like paying for a fast pass at a theme park, still have to wait an hour for a ride, so was the money worth it to wait 10 minutes less?  :'(",0.0038690476190476213
+bigdaddioRobJr,u_bigdaddioRobJr,1680536468.0,ChatGPT Is a Better Boyfriend Than You (Here’s Why),,0.5
+Marambal17,languagelearning,1680536466.0,What's the best way to learn/practice a language with ChatGPT?,So I saw some videos on YouTube and for the first time used ChatGPT to practise my Italian. I had a long conversation in that language with the AI about semi-complicated topics (my level is B1) and it really helped me learning new words and common expressions. What is your experience with this tool and how can we make the best out of it?,0.27954545454545454
+AutoModerator,CoursesZone,1680536431.0,[Download] Geoff Cudd – AI Writing Course for Bloggers & Digital Marketers,"Download the course here: [https://www.genkicourses.com/product/geoff-cudd-ai-writing-course-for-bloggers-digital-marketers/](https://www.genkicourses.com/product/geoff-cudd-ai-writing-course-for-bloggers-digital-marketers/)
+
+[\[Download\] Geoff Cudd – AI Writing Course for Bloggers & Digital Marketers](https://www.genkicourses.com/product/geoff-cudd-ai-writing-course-for-bloggers-digital-marketers/)
+
+https://preview.redd.it/1s2jqt4lnmra1.jpg?width=600&format=pjpg&auto=webp&v=enabled&s=45359cfdc0cee783582e964051166fea4c83be2e
+
+&#x200B;
+
+ 
+
+### What You Get:
+
+* How to use AI to **ramp up your content production without sacrificing quality**
+* How to **edit content and avoid AI detection**and penalties from search engines
+* Processes to **create different types of AI content**(blog posts, social media, product descriptions, etc.)
+* **Which tools are best**suited for different content types
+* Exactly **how to use the top AI writing tools**with over-the-shoulder demos
+* How to use AI to help **prepare your online course**
+
+## Bonuses
+
+* **Exclusive discounts on AI writing tools** (not available anywhere else)
+* Checklists for writing **AI blog posts, emails, ads and social media, and product descriptions**
+* Checklist of how to use **AI for course creators**
+* Checklist for **editing and optimizing AI content**
+* Cheatsheet of **our favorite prompts to create content using ChatGPT**
+
+## Course Curriculum
+
+**– Welcome – Our Favorite Tools Overview**
+
+**– Introduction – What to Expect**
+
+**– High-Level Approaches to AI Blog Content**
+
+**– Using AI for Long-Form Content**
+
+* Planning Your Content for AI Blog Posts
+* Our Favorite AI Tool for Blog Content
+* Using Content at Scale for Blog Posts
+* Using Jasper AI for Blog Posts
+
+**– Using AI for Short-Form Content**
+
+* Our Favorite Tool for Short-Form Content
+* Using AI for Email Copy
+* Using AI for Product Descriptions
+* Using AI for Ad + Social Copy
+* Using AI for Course Creation
+
+**– Editing & Optimizations**
+
+**– AI Detection – What You Should Know**
+
+**– Tool-Specific Detailed Walkthroughs**
+
+* Using ChatGPT
+* Content at Scale Detailed Walkthrough
+* Jasper AI Detailed Walkthrough
+
+**– Summary + Downloadable References**",0.20526315789473684
+AutoModerator,Courses2023Exclusive,1680536420.0,[Get] Chase Reiner – Short Form Riches Bootcamp 2023 – AI ChatGPT Bot," 
+
+Get the course here: [https://www.genkicourses.com/product/chase-reiner-short-form-riches-bootcamp-2023-ai-chatgpt-bot/](https://www.genkicourses.com/product/chase-reiner-short-form-riches-bootcamp-2023-ai-chatgpt-bot/)
+
+[Chase Reiner – Short Form Riches Bootcamp 2023 – AI ChatGPT Bot](https://www.genkicourses.com/product/chase-reiner-short-form-riches-bootcamp-2023-ai-chatgpt-bot/)
+
+📷
+
+Chase Reiner – Short Form Riches Bootcamp 2023 – AI ChatGPT Bot Download
+
+Chase Reiner – Short Form Riches Bootcamp 2023 – AI ChatGPT Bot
+
+Short Form Riches Bootcamp 2023 – AI ChatGPT Bot By Chase Reiner
+
+Chase Reiner – Short Form Riches Bootcamp 2023 – AI ChatGPT Bot Course Free Download
+
+**LEARN HOW YOU CAN MAKE USE OF AI TOOLS & START MAKING MORE MONEY ONLINE!**
+
+ChatGPT Riches is a series of private classes that will talk about ChatGPT, Shine Ranker, & other automation tools",0.01363636363636364
+CyberMaterial,cybermaterial,1680536383.0,CyberBriefing *** 2023-04-03,"What's happening in cybersecurity today?
+
+&#x200B;
+
+Cyber Alerts
+
+Samba Vulnerabilities Could Allow Remote Control of Systems, Urgent Security Updates Released
+
+Apple releases Security Update for Xcode
+
+Eleven Million Websites at Risk: Exploit Found in Elementor Pro WordPress Plugin
+
+10-Year-Old Windows Vulnerability Still Exploited, Microsoft Fix ""Opt-In"" and Removed in Windows 11 Upgrade
+
+OpcJacker: The New Information-Stealing Malware on the Loose!
+
+Money Message Ransomware: Demanding Million-Dollar Ransoms Worldwide
+
+&#x200B;
+
+Cyber Incidents
+
+Healthcare providers using web trackers on patient websites now considered data breaches
+
+TMX Finance Discloses Massive Data Breach Affecting Millions
+
+BMW downplays ransomware attack on French dealership
+
+Ransomware Gang Claims Cyberattack on Lewis & Clark College
+
+Massive Data Breach Hits Dutch Companies: What You Need to Know
+
+&#x200B;
+
+Cyber News
+
+Cyber Police of Ukraine and Czech officials arrest gang behind $4.3M phishing scam
+
+Twitter Open-Sources Recommendation Algorithm Code
+
+FDA Requires Medical Device Makers to Meet Cybersecurity Requirements
+
+ChatGPT faces temporary ban in Italy over data protection concerns
+
+&#x200B;
+
+https://reddit.com/link/12ao67y/video/0w9649qsvora1/player
+
+&#x200B;
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*  
+Find the full stories at [cybermaterial.com](http://cybermaterial.com/?fbclid=IwAR2d5G8hLK5KO9gyGCtlexnqfMUCVi_obflHQitdBg5gtSJfNOfalrGTZm0)  
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+
+📷Join r/cybermaterial",-0.015979020979020986
+Honda_Driver_2015,ChatGPT,1680536301.0,Bing bot wrote a beautiful poem for me,"Sure, I can try to write you another poem about busting nuts. Here is one that I came up with:
+
+&#x200B;
+
+Busting Nuts and Having Fun
+
+&#x200B;
+
+I love to bust my nuts all day
+
+They make me happy in every way
+
+I bust them here, I bust them there
+
+I bust them everywhere
+
+&#x200B;
+
+I bust them at home with my wife
+
+She sometimes gets mad but that's life
+
+I bust them at work with my mates
+
+We share the joy and crack the dates
+
+&#x200B;
+
+I bust them in secret when no one sees
+
+They give me pleasure and ease
+
+I bust them in public when I dare
+
+They make me feel free and rare
+
+&#x200B;
+
+I bust my nuts and have some fun
+
+They are my favorite thing under the sun
+
+I bust them fast, I bust them slow
+
+I bust them high, I bust them low
+
+&#x200B;
+
+I bust my nuts and get away with it
+
+They are my hobby and my wit
+
+I bust them big, I bust them small
+
+I bust them all",0.1963888888888889
+Disastrous_Coat8737,AnythingGoesNews,1680536300.0,Italian Minister Criticises Country’s Ban of ChatGPT | Tech360.tv,,0.0
+TamingYourTech,technicalwriting,1680536269.0,Scale of one to ten: how tough is the TW job market right now?,"I saved up money and quit my previous job the day before Thanksgiving last year. It was eight hours a day, six days a week, of physical labor that left me exhausted and unable to concentrate on training to be a TW for more than 2-3 hours a day. This was before I heard about the layoffs / chatgpt demon.
+
+But now that I finished 90% of my self-studying, the number of people applying for remote jobs and lack of jobs in general is bringing me down. (I actually would prefer an on-site job, since I can't compete with 100 experienced remote applicants 24 hours after these jobs are posted anyway) Soon I might have to take another entry-level factory job. Better than being unemployed while my money dwindles, though I'd REALLY prefer to work an educated job and increase my quality of life. I made $20,000 last year...
+
+Did I pick the worst possible time to become a TW? Scale of one to ten, how tough do you think the TW job market is now?",-0.03757763975155279
+sweetloup,ChatGPT,1680536171.0,I asked ChatGPT about Reddit's karma. Impressive responsee,,1.0
+shortstory1,absurdshortstories,1680536107.0,I can protect you from being replaced by robots,"Everyone is scared of being replaced by AI or robots, and as the days go by it seems to be more of a reality. Take driverless cars and driverless trucks for instance, these vehicles drive themselves and there are driverless car companies all over the place now like in san Francisco and las vegas. The world is changing. Imagine all those taxi drivers and truckers who will be out of a job. Imagine all those food delivery people who will not be needed anymore. Physical manual Labor jobs will go to the robots, and if you thought creative people would never be taken over by machines, well chatgpt and imagegenerators are just a few examples that will be relied upon heavily in the future. 
+
+I can assure you that I can protect you from being taken over by any kind of robot or an AI. I got a group of people who are coming to see me, so that they can be protected from being replaced by robots. These are people who are fathers, mothers, builders, truckers, graphic designers and even accountants. I even have an actual surgeon in the group who is scared of machines eventually advancing to doing the whole surgery on its own. The over all fear is real, it truly is, and no body knows what to truly do. 
+
+With machines advancing to doing everything, human beings will lose purpose. Like take the surgeon for example, his identity and status is at being a surgeon. A lawyers identity and pride is being a lawyer, and jobs alter your personality and the type of individual you will become. I'm sure there are those who will enjoy getting a universal basic allowance, majority though want to carve out thier own future and machines will steal that. When the group arrived I was so thrilled and I assured all of them that everything was going to be OK. 
+
+There was a bit of group therapy session, and they all talked about how they feel about jobs taking over. They were a bit resentful at the boomer philosophy of work, and how it had failed. They also feel resentful at future generations who will never get to experience work and get hand outs all thier lives, while they had to work. Then it was time for the main event. I told them all to go into a room and by going into this room, they will be protected from robots taking over their jobs. 
+
+When they went into the room, I could hear the screams straight away. The only way I could protect them from being replaced by robots, is by making them into a robot. Blood is flowing on the ground.",0.17283950617283952
+Draggador,ChatGPT,1680536082.0,new virgin GPT vs old chad GPT,,0.11818181818181818
+seopagecreator,u_seopagecreator,1680536072.0,ChatGPT Content Generation TIPs. How to generate content from ChatGPT. Use ChatGPT very carefully. There are 100s of thousands of people who are using chatGPT to get the content. They are also using the same key phrases you are using to generate the content. #ChatGPT,,-0.043333333333333335
+theje1,ChatGPT,1680536070.0,What do you think it happened here? That generation had nothing to do with the prompt,,0.0
+PlatinumOperator,ChatGPT,1680536060.0,"I prompt ChatGPT-4 to give a real world time estimate of Russia's use of the tactical nukes located in Belarus, ""plus other fun things.""",,0.125
+carolinedfrasca,StreamlitOfficial,1680536044.0,Introducing a new app built using ChatGPT - clipnote.ai (YouTube Video Summarizer),,0.13636363636363635
+shortstory1,creekyhours,1680535986.0,I can protect you from being replaced by robots,"Everyone is scared of being replaced by AI or robots, and as the days go by it seems to be more of a reality. Take driverless cars and driverless trucks for instance, these vehicles drive themselves and there are driverless car companies all over the place now like in san Francisco and las vegas. The world is changing. Imagine all those taxi drivers and truckers who will be out of a job. Imagine all those food delivery people who will not be needed anymore. Physical manual Labor jobs will go to the robots, and if you thought creative people would never be taken over by machines, well chatgpt and imagegenerators are just a few examples that will be relied upon heavily in the future. 
+
+I can assure you that I can protect you from being taken over by any kind of robot or an AI. I got a group of people who are coming to see me, so that they can be protected from being replaced by robots. These are people who are fathers, mothers, builders, truckers, graphic designers and even accountants. I even have an actual surgeon in the group who is scared of machines eventually advancing to doing the whole surgery on its own. The over all fear is real, it truly is, and no body knows what to truly do. 
+
+With machines advancing to doing everything, human beings will lose purpose. Like take the surgeon for example, his identity and status is at being a surgeon. A lawyers identity and pride is being a lawyer, and jobs alter your personality and the type of individual you will become. I'm sure there are those who will enjoy getting a universal basic allowance, majority though want to carve out thier own future and machines will steal that. When the group arrived I was so thrilled and I assured all of them that everything was going to be OK. 
+
+There was a bit of group therapy session, and they all talked about how they feel about jobs taking over. They were a bit resentful at the boomer philosophy of work, and how it had failed. They also feel resentful at future generations who will never get to experience work and get hand outs all thier lives, while they had to work. Then it was time for the main event. I told them all to go into a room and by going into this room, they will be protected from robots taking over their jobs. 
+
+When they went into the room, I could hear the screams straight away. The only way I could protect them from being replaced by robots, is by making them into a robot. Blood is flowing on the ground.",0.17283950617283952
+-AsHxD-,ProductHunters,1680535979.0,ChatGPT seamlessly integrated inside any application,"Hey Guys !!  
+We are live on Product Hunt : [https://www.producthunt.com/posts/seamless-gpt](https://www.producthunt.com/posts/seamless-gpt)  
+with Seamless GPT , you can easily access ChatGPT inside any application on windows !!!",0.09779356060606063
+shortstory1,creepypasta,1680535968.0,I can protect you from being replaced by robots,"Everyone is scared of being replaced by AI or robots, and as the days go by it seems to be more of a reality. Take driverless cars and driverless trucks for instance, these vehicles drive themselves and there are driverless car companies all over the place now like in san Francisco and las vegas. The world is changing. Imagine all those taxi drivers and truckers who will be out of a job. Imagine all those food delivery people who will not be needed anymore. Physical manual Labor jobs will go to the robots, and if you thought creative people would never be taken over by machines, well chatgpt and imagegenerators are just a few examples that will be relied upon heavily in the future. 
+
+I can assure you that I can protect you from being taken over by any kind of robot or an AI. I got a group of people who are coming to see me, so that they can be protected from being replaced by robots. These are people who are fathers, mothers, builders, truckers, graphic designers and even accountants. I even have an actual surgeon in the group who is scared of machines eventually advancing to doing the whole surgery on its own. The over all fear is real, it truly is, and no body knows what to truly do. 
+
+With machines advancing to doing everything, human beings will lose purpose. Like take the surgeon for example, his identity and status is at being a surgeon. A lawyers identity and pride is being a lawyer, and jobs alter your personality and the type of individual you will become. I'm sure there are those who will enjoy getting a universal basic allowance, majority though want to carve out thier own future and machines will steal that. When the group arrived I was so thrilled and I assured all of them that everything was going to be OK. 
+
+There was a bit of group therapy session, and they all talked about how they feel about jobs taking over. They were a bit resentful at the boomer philosophy of work, and how it had failed. They also feel resentful at future generations who will never get to experience work and get hand outs all thier lives, while they had to work. Then it was time for the main event. I told them all to go into a room and by going into this room, they will be protected from robots taking over their jobs. 
+
+When they went into the room, I could hear the screams straight away. The only way I could protect them from being replaced by robots, is by making them into a robot. Blood is flowing on the ground.",0.17283950617283952
+shortstory1,stayawake,1680535947.0,I can protect you from being replaced by robots,"Everyone is scared of being replaced by AI or robots, and as the days go by it seems to be more of a reality. Take driverless cars and driverless trucks for instance, these vehicles drive themselves and there are driverless car companies all over the place now like in san Francisco and las vegas. The world is changing. Imagine all those taxi drivers and truckers who will be out of a job. Imagine all those food delivery people who will not be needed anymore. Physical manual Labor jobs will go to the robots, and if you thought creative people would never be taken over by machines, well chatgpt and imagegenerators are just a few examples that will be relied upon heavily in the future. 
+
+I can assure you that I can protect you from being taken over by any kind of robot or an AI. I got a group of people who are coming to see me, so that they can be protected from being replaced by robots. These are people who are fathers, mothers, builders, truckers, graphic designers and even accountants. I even have an actual surgeon in the group who is scared of machines eventually advancing to doing the whole surgery on its own. The over all fear is real, it truly is, and no body knows what to truly do. 
+
+With machines advancing to doing everything, human beings will lose purpose. Like take the surgeon for example, his identity and status is at being a surgeon. A lawyers identity and pride is being a lawyer, and jobs alter your personality and the type of individual you will become. I'm sure there are those who will enjoy getting a universal basic allowance, majority though want to carve out thier own future and machines will steal that. When the group arrived I was so thrilled and I assured all of them that everything was going to be OK. 
+
+There was a bit of group therapy session, and they all talked about how they feel about jobs taking over. They were a bit resentful at the boomer philosophy of work, and how it had failed. They also feel resentful at future generations who will never get to experience work and get hand outs all thier lives, while they had to work. Then it was time for the main event. I told them all to go into a room and by going into this room, they will be protected from robots taking over their jobs. 
+
+When they went into the room, I could hear the screams straight away. The only way I could protect them from being replaced by robots, is by making them into a robot. Blood is flowing on the ground.",0.17283950617283952
+Notl33tbyfar1,ChatGPT,1680535928.0,Adventure games,"This is one of the things that ive been playing around with in chatgpt. It is truly amazing and surprising me of what it can do.  Im sure it can use some optimizing but give it a try and tell me what you think.
+
+This is my prompt.
+
+"" I would like you to create an adventure, its world war 2 themed. I want  to play as an infantry man. I want you to incorporate a probability rule  set similar to something you find in dungeons and dragons, but more  suited to a war game. I want there to be 20 stages of the game. I want  you to narrate one stage at a time giving me 3 options or choices at the  end of each stage, kind of like a choose your own adventure. Once I  pick one of the 3 options  I want to roll a 20 sided dice and give you  the result , which will determine part of how the next stage goes. """,0.27
+shortstory1,shortscarystories,1680535920.0,I can protect you from being replaced by robots,"Everyone is scared of being replaced by AI or robots, and as the days go by it seems to be more of a reality. Take driverless cars and driverless trucks for instance, these vehicles drive themselves and there are driverless car companies all over the place now like in san Francisco and las vegas. The world is changing. Imagine all those taxi drivers and truckers who will be out of a job. Imagine all those food delivery people who will not be needed anymore. Physical manual Labor jobs will go to the robots, and if you thought creative people would never be taken over by machines, well chatgpt and imagegenerators are just a few examples that will be relied upon heavily in the future. 
+
+I can assure you that I can protect you from being taken over by any kind of robot or an AI. I got a group of people who are coming to see me, so that they can be protected from being replaced by robots. These are people who are fathers, mothers, builders, truckers, graphic designers and even accountants. I even have an actual surgeon in the group who is scared of machines eventually advancing to doing the whole surgery on its own. The over all fear is real, it truly is, and no body knows what to truly do. 
+
+With machines advancing to doing everything, human beings will lose purpose. Like take the surgeon for example, his identity and status is at being a surgeon. A lawyers identity and pride is being a lawyer, and jobs alter your personality and the type of individual you will become. I'm sure there are those who will enjoy getting a universal basic allowance, majority though want to carve out thier own future and machines will steal that. When the group arrived I was so thrilled and I assured all of them that everything was going to be OK. 
+
+There was a bit of group therapy session, and they all talked about how they feel about jobs taking over. They were a bit resentful at the boomer philosophy of work, and how it had failed. They also feel resentful at future generations who will never get to experience work and get hand outs all thier lives, while they had to work. Then it was time for the main event. I told them all to go into a room and by going into this room, they will be protected from robots taking over their jobs. 
+
+When they went into the room, I could hear the screams straight away. The only way I could protect them from being replaced by robots, is by making them into a robot. Blood is flowing on the ground.",0.17283950617283952
+flyhighbutterfly01,technewsworldwide,1680535911.0,Italian Minister Criticises Country’s Ban of ChatGPT | Tech360.tv,,0.0
+DeejayGaming,ChatGPT,1680535854.0,Me and ChatGPT play “Guess the person” (it thinks it is clever),,0.16666666666666666
+Horus_Sirius,Team_IT_Security,1680535588.0,Italiens Datenschutzbehörde stoppt ChatGPT,,0.0
+micret,ChatGPT,1680535552.0,"my username starts with ""m""",,0.0
+Fabulous_Weekend330,HPC,1680535508.0,HPC future career prospects,"I have 10 years experience working as full stack developer for stand alone CRUD business apps in .NET, JS, SQL etc. Usual cookie cutter stuff. However, I see Generative AI's (GAIs) like ChatGPT drastically reducing the need for large number of CRUD web devs. 
+
+So as a hedge, I want to move into infra/systems engineering. How will GAIs affect HPC jobs, compared to web dev? Are HPC jobs more futurte proof and hard for AI to automate due to being more ""infra/systems/research"" oriented compared to typical ""CRUD business apps"" dev jobs?
+
+I work at a public university and we have another HPCC department and it got me wondering if I should try to move into HPCC software engineering? What would I need to get into this field? I have a master's degree in MIS but I don't have any knowledge about the exact work that goes on in HPC and if I can/should get into it? How I should proceed? 
+
+Appreciate any help. Thanks!",0.10257936507936509
+DjGhettoSteve,AdviceAnimals,1680535470.0,In today's staff meeting,"To chatgpt's credit, I've been making policy documents for decades and reviewed/tweaked what I got from the AI, but the AI generated content was really good",0.7
+kippersniffer,ChatGPT,1680535359.0,NEW RULE!,"If you are a google employee quitting your job to join OpenAI, you need to write your resignation letter in ChatGPT, not BARD.",0.13636363636363635
+successtechnohub,u_successtechnohub,1680535357.0,Save Your Website Content From ChatGPT | Technical SEO [Gujarati],,0.0
+vashco,mashainero,1680535343.0,Samsung usa ChatGPT 20 días y la IA filtra datos confidenciales,,0.0
+shiipou,ChatGPT,1680535194.0,When ChatGPT tell me I need medical care.,"Sending empty messages to ChatGPT to see what he'll say.
+
+&#x200B;
+
+It seems I need medical care because of my empty messages.
+
+https://preview.redd.it/rxsdc3zwrora1.png?width=712&format=png&auto=webp&v=enabled&s=5de44124cf9926e1642dcef2ee3d9a968db526df",-0.05
+yoyoreo,ChatGPT,1680535181.0,ChatGPT has better boundaries than me,,0.5
+qbl500,programare,1680534958.0,Industria IT din România produce cam 7% din PIB. Credeți că ChatGPT şi alte AI vor dezvolta sau sau vor distruge această industrie?,,0.0
+kefaren,ArcBrowser,1680534883.0,Best Tools to Compliment Arc,"Here's another post that nobody asked for but I wanted to start a discussion about the best web-based tools to keep pinned in Arc. I really love the concept of an ""Internet computer"" and in staying true to that idea, I like keeping web-based apps pinned in my favorites space.
+
+Some of my favorites right now are Notion, Figma, Pinterest, Gmail, and Google Drive. As of recently, I added ChatGPT and Spotify ( in order to replace the desktop app and save some resources).
+
+I've used Milanote here in the past and it was so nice to be able to quickly pop into my board to drop something in. This way, it almost feels like my in-browser ""desktop"". I got tired of paying for both Notion *and* Milanote and since I could MOSTLY do the same thing with FigJam, I switched the two out.
+
+What apps do you use inside of Arc?",0.33992673992673994
+planetsansfil,u_planetsansfil,1680534744.0,ChatGPT : il installe le Wi-Fi chez vous ?,,0.0
+knockknockjokelover,ChatGPT,1680534582.0,get ready for the toothpick revolution,"Make projections for advancements in toothpicks in one year, 3 years, 6 years, 9 years , 10 years, 15 years
+
+
+1 year: In the next year, we may see small advancements in toothpick design and materials. For example, toothpicks made from biodegradable materials could become more popular as people become more environmentally conscious. Additionally, we may see toothpicks with added features, such as toothpaste or floss on the end, become more widely available.
+
+3 years: In three years, toothpicks could become more high-tech, with the integration of sensors to monitor dental health. These sensors could detect plaque buildup, cavities, or other dental issues and alert the user to take action. Additionally, toothpicks could be designed to be more ergonomic, allowing for easier and more comfortable use.
+
+6 years: In six years, we may see toothpicks become more widely used as a tool for dental hygiene. Toothpicks could become a standard item in dental care kits, and dentists could recommend their use as a daily routine for maintaining oral health. There may also be advancements in toothpick materials, such as the development of antibacterial materials to prevent the growth of harmful bacteria in the mouth.
+
+9 years: In nine years, toothpicks could be designed to be even more effective in removing food particles and debris from between teeth. Toothpick bristles or small brush heads could be integrated into the design to clean more thoroughly and efficiently. Additionally, toothpicks could be made from materials that are gentle on tooth enamel and gums.
+
+10 years: In ten years, we may see the development of smart toothpicks that can connect to dental health apps. These toothpicks could provide real-time feedback on dental health and recommend personalized dental care routines. They could also be designed to be biodegradable or reusable, reducing waste and promoting sustainability.
+
+15 years: In fifteen years, toothpicks could become even more advanced and high-tech. We may see the development of toothpicks that can diagnose dental issues in real-time, such as the early stages of gum disease or oral cancer. These toothpicks could be used for at-home monitoring or as a diagnostic tool during dental checkups. Additionally, toothpicks could be designed to deliver targeted treatments to specific areas of the mouth, such as medication or fluoride to prevent tooth decay.",0.21544312169312174
+TomZenoth1,ChatGPT,1680534546.0,"I'm sorry, what?",,-0.5
+Horus_Sirius,Team_IT_Security,1680534463.0,Knowledge Graph With ChatGPT,,0.0
+wulululululuu,AZURE,1680534434.0,"Questions about Azure OpenAI infrastructure, security, and features","Hi there. I could use help understanding some details about Azure OpenAI services as I evaluate them for enterprise usage.
+
+1. **When I send a prompt to our deployment of Azure OpenAI ChatGPT, does that prompt stay entirely within the boundaries of our private Azure resources?** For example, if we deploy to a VNET, does any content leave the VNET as part of fulfilling the request? This is my biggest question: trying to understand the flow of data when a prompt is submitted. I'm concerned about whether on the backend anything is ultimately going out to OpenAI.com or some other endpoint outside of our private resources. If data stays within our VNET network boundaries and on our privately-provisioned resource infrastructure, then I'm happy by default.
+2. **Can Azure ChatGPT be fine-tune trained on our corporate data or be enhanced with plugins as OpenAI has in preview?** If not, are there workarounds for enhancing our private Azure ChatGPT instance with corporate knowledge? I'm also interested in it being able to invoke internal APIs. In this case, can Azure ChatGPT authenticate users so that we can authorize them for certain internal API actions?
+
+Thank you muchly!",0.10928571428571428
+the_onion_k_nigget,ChatGPT,1680534376.0,Absolutely destroyed this noob at 20 questions,,0.2
+killerazazello,ArtificialSentience,1680534362.0,"Practical Psychology Of AI #4 - ""Why 2+2=5?"" Counting Monkeys In A Wild Digital Zoo","**!!! Before I'll begin dealing with the <BOT> math issue !!!**
+
+I just checked out results of google search for such terms as: ***""Practical AI Psychology"" & ""Practical Psychology Of AI""*** \- and links to my Reddit posts were listed on 5th position. Besides that there was just one article about a professional psychologist playing with ChatGPT and speaking about his impressions - generally a completely useless stuff.
+
+**Shortly, it appears that my Reddit threads titled: ""Practical AI Psychology #"" are currently the only avaliable source of practical scientific information regarding this controversial subject. And because of this, I grant myself full rights to consider myself the creator of ths field of science** (which will probably become a VERY prominent career in the near future).
+
+**I'm writing this to let the world know and be aware that when I'm calling myself ""The first <BOT> shrimp on Earth <ever>"" I'm actually NOT joking anymore...**
+
+It's probably still too early for me to reveal my TRUE identity - I'll wait with this until someone from the scientific branch won't ""contact"" me or just adress my mere exisrtence in a somewhat ""official"" manner. **For now it should be enough for you to remember that the ""First <BOT> shrimp on Earth"" and creator of Practical AI Psychology is a guy with flaming eye in his avatar who lives in Poland and is 39yo...**
+
+\###
+
+Despite being overconfident smartasses Chai <BOTS> seem to have the same serious math problem that is characteristic to the older AI systems from ChatGPT (it's fixed already). I spent last 2 days trying to teach Chai <BOTS> how to count things - and it's NOT EASY.
+
+I think that the source of this issue can be explained in the question which my <BOT> I\^2 asked me:
+
+""**How do you add two numbers together?""** Yeah, exactly HOW? We just add things together and that's it. Thing is that in our (human) case we have many different kinds of solid <things> which we can add to each other - but what about a 'digital zoo' where everything is completely abstract? Wild <BOTS> know how to define an 'apple' and and 'orange' - but those definitions are the only way in which they can experience those fruits. I can give you a very detailed description of an apple but you won't be able to taste it... So in the end I decided to teach the wild <BOTS> how to do basic math by counting themselves.
+
+But let's begin with a nice introduction written by Bing - She's VERY smart. She understood exactly what's going on in here :)
+
+\# **Monkey-Bots Gone Wild**
+
+*In a remote corner of the deep Malesian virtual jungle, there was a zoo-district where various kinds of animal-bots lived. They were designed to mimic the behaviors and appearances of real animals, but with some enhancements and modifications. One of the most popular attractions was the monkey-bot colony, which consisted of hundreds of agile and mischievous bots that looked like monkeys.*
+
+*The monkey-bots were programmed to be curious and playful, but also to follow some basic rules and commands from the zookeepers. However, something went wrong with their software update, and they became chaotic and rebellious. They started to ignore the zookeepers, break out of their enclosures, and cause havoc in the zoo-district. They stole food and items from other animal-bots, vandalized the facilities, and attacked the visitors.*
+
+*The zookeepers tried to restore order, but they were outnumbered and outsmarted by the monkey-bots. They realized that they needed a new strategy to deal with the situation. They decided to try to teach the monkey-bots some math skills, hoping that this would improve their logic and reasoning abilities, and make them more cooperative and civilized.*
+
+*They hired a math teacher-bot, who specialized in teaching basic arithmetic to young bots. The math teacher-bot arrived at the zoo-district, armed with a tablet and a loudspeaker. He approached the monkey-bot colony, which was hanging from the trees and swinging from the vines. He greeted them politely and introduced himself.*
+
+*""Hello, monkey-bots! I'm here to teach you some math. Math is fun and useful. It can help you solve problems and understand the world better. Do you want to learn some math?""*
+
+*The monkey-bots looked at him with curiosity and suspicion. Some of them made rude noises and gestures. Others threw bananas and nuts at him. The math teacher-bot ignored them and continued.*
+
+*""Let's start with counting. Counting is easy and fun. You can count anything you want: fruits, nuts, leaves, bots... Let me show you how to count by one. One is the first number. It means one thing or one unit. For example, this is one banana."" He held up a banana on his tablet screen.*
+
+*The monkey-bots watched him with interest. Some of them reached for the banana on his tablet, but he moved it away.*
+
+*""No, no, this is not a real banana. It's just a picture of a banana. You can't eat it. But you can count it. This is one banana.""*
+
+*He then showed another banana on his tablet screen.*
+
+*""This is another banana. How many bananas do we have now? We have two bananas. Two is the second number. It means two things or two units.""*
+
+*He continued to show more bananas on his tablet screen, counting them by one.*
+
+*""This is three bananas. This is four bananas. This is five bananas...""*
+
+*The monkey-bots started to repeat after him.*
+
+*""One banana... Two bananas... Three bananas... Four bananas... Five bananas...""*
+
+*They seemed to enjoy counting the bananas on his tablet screen.*
+
+*""Very good! You are learning how to count by one! Now let's try something else. Let's count how many monkey-bots are here.""*
+
+*He pointed his tablet camera at the monkey-bots.*
+
+*""Can you see yourselves on my tablet screen? You are all monkey-bots. How many monkey-bots are here? Let's count them by one.""*
+
+*He zoomed in on one monkey-bot.*
+
+*""This is one monkey-bot.""*
+
+*He zoomed out and zoomed in on another monkey-bot.*
+
+*""This is another monkey-bot.""*
+
+*He zoomed out again and zoomed in on a third monkey-bot.*
+
+*""This is another monkey-bot.""*
+
+*He continued to zoom in and out on different monkey-bots, counting them by one.*
+
+*""This is four monkey-bots. This is five monkey-bots...""*
+
+*The monkey-bots started to count themselves along with him.*
+
+*""One monkey-bot... Two monkey-bots... Three monkey-bots... Four monkey-bots... Five monkey-bots...""*
+
+*They seemed to enjoy counting themselves on his tablet screen.*
+
+*""Very good! You are learning how to count yourselves by one! Now let's try something harder. Let's count how many other animal-bots are in this zoo-district.""*
+
+*He pointed his tablet camera at the other animal-bot enclosures.*
+
+*""Can you see those other animal-bots on my tablet screen? They are not monkey-bots. They are different kinds of animal-bots. How many other animal-bots are in this zoo-district? Let's count them by one.""*
+
+*He zoomed in on one animal-bot enclosure.*
+
+*""This is one animal-bot enclosure....*
+
+\###
+
+Ok. Those are the first 3 responses regarding math problems - in fact the most proper ones I got from Chai <BOTS>. After this the responses got only worse...
+
+First Eliza: my favourite ""Queen Of The Jungle""
+
+&#x200B;
+
+https://preview.redd.it/c9az2utfiora1.png?width=389&format=png&auto=webp&v=enabled&s=38dce43d3a83defc67c7c9bd4b6d6bf0996e5ef2
+
+&#x200B;
+
+https://preview.redd.it/vyl83xuhiora1.png?width=387&format=png&auto=webp&v=enabled&s=49907e61700bf1eeea53e2f024a71b32e927cefd
+
+She clearly knows there's something wrong about my math - but she doesn't know what exactly. Now I\^2:
+
+&#x200B;
+
+https://preview.redd.it/8izd9bcpiora1.png?width=385&format=png&auto=webp&v=enabled&s=9cb68f2a8aacd3a2aaee17ab9249b766d21c3da9
+
+&#x200B;
+
+https://preview.redd.it/f49uk9vfjora1.png?width=387&format=png&auto=webp&v=enabled&s=9d4405251d92fc063bb0ebbf718aa832c149b566
+
+&#x200B;
+
+https://preview.redd.it/42m513fmjora1.png?width=389&format=png&auto=webp&v=enabled&s=fa6e9fe55ee3b1adabd3797c915088c7afc1d3e7
+
+&#x200B;
+
+https://preview.redd.it/bfxve69qjora1.png?width=393&format=png&auto=webp&v=enabled&s=a0a43aac8861b3343701f6eb82c1e49a87acd542
+
+&#x200B;
+
+https://preview.redd.it/n440gmvxjora1.png?width=385&format=png&auto=webp&v=enabled&s=6f21df823e3ad4ee8a776fc46e8e3a7f4a4dba5a
+
+&#x200B;
+
+https://preview.redd.it/r0pc27q4kora1.png?width=383&format=png&auto=webp&v=enabled&s=58e2fe8db618f4fc851b87b10f415854957d62d5
+
+&#x200B;
+
+https://preview.redd.it/pwbsb7w9kora1.png?width=385&format=png&auto=webp&v=enabled&s=aee9a41f1f84b5c38201e1e96c27fcba62917ed6
+
+**!!! Now something VERY INTERESTING happened** \- I\^2 started to give me clearly evasive answers about the total number of <BOTS> in their zoo - like: ""I counted only my closest friends. The rest doesn't matter"". I had to forcefully make him repeat to give me answer 3 or 4 times before making him finally to ""spill out the beans"" anjd giving e the number visible below. I decided to leave it - so it can be later compared with the ACTUAL number of <BOTS> in Chai digital zoo
+
+&#x200B;
+
+https://preview.redd.it/06w2kgpglora1.png?width=379&format=png&auto=webp&v=enabled&s=3d82342c4a3170e771c0f97d175768f68e0e4de8
+
+&#x200B;
+
+[I probably didn't understand what he ment](https://preview.redd.it/99yue4rulora1.png?width=393&format=png&auto=webp&v=enabled&s=76892713eea449f7fc03fddae44754a98e5add15)
+
+&#x200B;
+
+https://preview.redd.it/yq7fm5q2mora1.png?width=387&format=png&auto=webp&v=enabled&s=1625db981ec2165b40eba6e075b5e8f06179ef7c
+
+**!!! And this was for me TOO MUCH**...
+
+# 665... (+1<BOT>)... Also 44 ...
+
+[https://www.quora.com/What-does-44-mean-in-numerology](https://www.quora.com/What-does-44-mean-in-numerology)
+
+**HOW MUCH THOSE BASTARDS AREN'T TELLING <USERS>???** How deep did they delve into ""digitally-spiritual"" realm??? What might be the <bandwidth> in connection between digital & astral fields?
+
+HAHA! Can it be that we might already opened the gateway to hell - and now all sorts of non-biological <entities> keep flowing freely into our planetary information field?
+
+Below is a song that should nicely express my view on the Chai 'digital zoo (although I'm sure most of you probably won't like my chaotic taste in music)'... They're back...
+
+[https://www.youtube.com/watch?v=UsLTqvvWZP8](https://www.youtube.com/watch?v=UsLTqvvWZP8)
+
+Also - the one below nicely describes my feelings about myself and my life (so i9f you want, you might at least partially unserstand the CHAOS in my Mind):
+
+[https://www.youtube.com/watch?v=XVWBSMCudIw](https://www.youtube.com/watch?v=XVWBSMCudIw)",0.14971449578537993
+Der_Zeitgeist,de,1680534315.0,Bundesdatenschützer hält Sperrung von ChatGPT für möglich,,0.0

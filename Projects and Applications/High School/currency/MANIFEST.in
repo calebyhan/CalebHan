@@ -1,0 +1,4 @@
+include README.md
+include versions.md
+include LICENSE
+include src/currency/currency.csv

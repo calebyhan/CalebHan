@@ -1,0 +1,191 @@
+Year,City,Population
+1840,New York City,312710
+1840,Baltimore,102313
+1840,New Orleans,102193
+1840,Philadelphia,93665
+1840,Boston,93383
+1840,Cincinnati,46338
+1840,Brooklyn,36233
+1840,Northern Liberties District,34474
+1840,Albany,33721
+1840,Charleston,29261
+1850,New York City,515547
+1850,Baltimore,169054
+1850,Boston,136881
+1850,Philadelphia,121376
+1850,New Orleans,116375
+1850,Cincinnati,115435
+1850,Brooklyn,96838
+1850,St. Louis,77860
+1850,Spring Garden district,58894
+1850,Albany,50763
+1860,New York City,813669
+1860,Philadelphia,565529
+1860,Brooklyn,266661
+1860,Baltimore,212418
+1860,Boston,177840
+1860,New Orleans,168675
+1860,Cincinnati,161044
+1860,St. Louis,160773
+1860,Chicago,112172
+1860,Buffalo,81129
+1870,New York City,942292
+1870,Philadelphia,674022
+1870,Brooklyn,396099
+1870,St. Louis,310864
+1870,Chicago,298977
+1870,Baltimore,267354
+1870,Boston,250526
+1870,Cincinnati,216239
+1870,New Orleans,191418
+1870,San Francisco,149473
+1880,New York City,1206299
+1880,Philadelphia,847170
+1880,Brooklyn,566663
+1880,Chicago,503185
+1880,Boston,362839
+1880,St. Louis,350518
+1880,Baltimore,332313
+1880,Cincinnati,255139
+1880,San Francisco,233959
+1880,New Orleans,216090
+1890,New York City,1515301
+1890,Chicago,1099850
+1890,Philadelphia,1046964
+1890,Brooklyn,806343
+1890,St. Louis,451770
+1890,Boston,448477
+1890,Baltimore,434439
+1890,San Francisco,298997
+1890,Cincinnati,296908
+1890,Cleveland,261353
+1900,New York City,3437202
+1900,Chicago,1698575
+1900,Philadelphia,1293697
+1900,St. Louis,575238
+1900,Boston,560892
+1900,Baltimore,508957
+1900,Cleveland,381768
+1900,Buffalo,352387
+1900,San Francisco,342782
+1900,Cincinnati,325902
+1910,New York City,4766883
+1910,Chicago,2185283
+1910,Philadelphia,1549008
+1910,St. Louis,687029
+1910,Boston,670585
+1910,Cleveland,560663
+1910,Baltimore,558485
+1910,Pittsburgh,533905
+1910,Detroit,465766
+1910,Buffalo,423715
+1920,New York City,5620048
+1920,Chicago,2701705
+1920,Philadelphia,1823779
+1920,Detroit,993078
+1920,Cleveland,796841
+1920,St. Louis,772897
+1920,Boston,748060
+1920,Baltimore,733826
+1920,Pittsburgh,588343
+1920,Los Angeles,576673
+1930,New York City,6930446
+1930,Chicago,3376438
+1930,Philadelphia,1950961
+1930,Detroit,1568662
+1930,Los Angeles,1238048
+1930,Cleveland,900429
+1930,St. Louis,821960
+1930,Baltimore,804874
+1930,Boston,781188
+1930,Pittsburgh,669817
+1940,New York City,7454995
+1940,Chicago,3396808
+1940,Philadelphia,1931334
+1940,Detroit,1623452
+1940,Los Angeles,1504277
+1940,Cleveland,878336
+1940,Baltimore,859100
+1940,St. Louis,816048
+1940,Boston,770816
+1940,Pittsburgh,671659
+1950,New York City,7891957
+1950,Chicago,3620962
+1950,Philadelphia,2071605
+1950,Los Angeles,1970358
+1950,Detroit,1849568
+1950,Baltimore,949708
+1950,Cleveland,914808
+1950,St. Louis,856796
+1950,Washington Dc,802178
+1950,Boston,801444
+1960,New York City,7781984
+1960,Chicago,3550404
+1960,Los Angeles,2479015
+1960,Philadelphia,2002512
+1960,Detroit,1670144
+1960,Baltimore,939024
+1960,Houston,938219
+1960,Cleveland,876050
+1960,Washington Dc,763956
+1960,St. Louis,750026
+1970,New York City,7894862
+1970,Chicago,3366957
+1970,Los Angeles,2816061
+1970,Philadelphia,1948609
+1970,Detroit,1511482
+1970,Houston,1232802
+1970,Baltimore,905759
+1970,Dallas,844401
+1970,Washington Dc,756510
+1970,Cleveland,750903
+1980,New York City,7071639
+1980,Chicago,3005072
+1980,Los Angeles,2966850
+1980,Philadelphia,1688210
+1980,Houston,1595138
+1980,Detroit,1203339
+1980,Dallas,904078
+1980,San Diego,875538
+1980,Phoenix,789704
+1980,Baltimore,786775
+1990,New York City,7322564
+1990,Los Angeles,3485398
+1990,Chicago,2783726
+1990,Houston,1630553
+1990,Philadelphia,1585577
+1990,San Diego,1110549
+1990,Detroit,1027974
+1990,Dallas,1006877
+1990,Phoenix,983403
+1990,San Antonio,935933
+2000,New York City,8015348
+2000,Los Angeles,3703921
+2000,Chicago,2895671
+2000,Houston,1977811
+2000,Philadelphia,1513800
+2000,Phoenix,1326997
+2000,San Diego,1226804
+2000,Dallas,1190731
+2000,San Antonio,1163825
+2000,Detroit,	945297
+2010,New York City,8175133
+2010,Los Angeles,3792621
+2010,Chicago,2695598
+2010,Houston,2099451
+2010,Philadelphia,1526006
+2010,Phoenix,1445632
+2010,San Antonio,1327407
+2010,San Diego,1307402
+2010,Dallas,1197816
+2010,San Jose,945942
+2020,New York City,8772978
+2020,Los Angeles,3889834
+2020,Chicago,2741730
+2020,Houston,2300027
+2020,Phoenix,1611345
+2020,Philadelphia,1601005
+2020,San Antonio,1438227
+2020,San Diego,1385394
+2020,Dallas,1303234
+2020,San Jose,1010908

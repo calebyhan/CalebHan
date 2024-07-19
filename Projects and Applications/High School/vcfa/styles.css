@@ -1,0 +1,100 @@
+.navbar {
+  background-color: #ce5959;
+  word-break: break-word;
+  display: flex;
+  align-items: center;
+  font-size: 23px;
+  padding-top: 5px;
+  padding-left: 5px;
+  justify-content: space-between;
+}
+
+p {
+  font-size: 19px;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+li {
+  padding-right: 20px;
+}
+
+.navbar div {
+  word-break: break-word;
+  display: flex;
+  align-items: center;
+  padding-right: 5px;
+}
+
+.background {
+  background-color: #f0fff0;
+  font-variant: small-caps;
+  padding-bottom: 60px;
+}
+
+.bcenter {
+  background-color: #f0fff0;
+  padding-bottom: 60px;
+  text-align: center;
+  font-variant: small-caps;
+}
+
+hr.solid {
+  border-top: 3px solid #00ced1;
+}
+
+a {
+  color: red;
+  text-decoration: none;
+}
+
+.center {
+  text-align: center;
+  font-variant: small-caps;
+  text-size: 20;
+}
+
+.image {
+  position: relative;
+  width: 100%;
+  text-align: center;
+}
+
+.test {
+  position: absolute;
+  top: 550px;
+  left: 0;
+  width: 100%;
+}
+
+.solidb {
+  border-style: solid;
+}
+
+.navbar-bottom {
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.navbar-bottom a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navbar-bottom a:hover {
+  background: #f1f1f1;
+  color: black;
+}
+
+.navbar-bottom a.active {
+  background-color: #ce5959;
+  color: white;
+}

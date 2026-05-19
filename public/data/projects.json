@@ -43,12 +43,50 @@
     }
   },
   {
+    "id": "axis",
+    "title": "Axis",
+    "tagline": "Personal athletic dashboard PWA syncing endurance and strength training.",
+    "description": "Built Axis, a personal athletic dashboard Progressive Web App that unifies Strava-synced endurance activity, manual strength sessions, body weight tracking, weekly planning, and rule-based training insights into a single mobile-optimized interface.\n\nEngineered with Next.js App Router and Server Actions backed by Supabase Postgres with row-level security for per-user data isolation. Integrated Strava API v3 with full OAuth and webhook support for automatic activity sync and workout linking.\n\nKey technical achievements include a custom service worker with IndexedDB for offline support, fuzzy exercise search via Fuse.js, Zod-validated form handling throughout, and a rule-based training intelligence layer that surfaces insights from workout history without requiring a black-box ML model.",
+    "featured": true,
+    "featuredRank": 2,
+    "featuredLabel": "Most Useful",
+    "techStack": [
+      "nextjs",
+      "react",
+      "typescript",
+      "supabase",
+      "postgresql",
+      "recharts",
+      "zod",
+      "fusejs",
+      "tailwind"
+    ],
+    "category": "fullstack",
+    "links": {
+      "github": "https://github.com/calebyhan/axis",
+      "live": "https://axis-ten-mocha.vercel.app/",
+      "demo": null
+    },
+    "images": {
+      "thumbnail": "/projects/axis/thumb.png",
+      "screenshots": [
+        "/projects/axis/screen1.png",
+        "/projects/axis/screen2.png"
+      ]
+    },
+    "metadata": {
+      "year": 2026,
+      "status": "active",
+      "complexity": "medium"
+    }
+  },
+  {
     "id": "bible-rag",
     "title": "Bible RAG",
     "tagline": "Multilingual Bible study platform powered by semantic search and RAG.",
     "description": "Developed Bible RAG, a Retrieval-Augmented Generation (RAG) system for intelligent Bible study supporting English and Korean with deep integration of original biblical languages (Hebrew, Greek, Aramaic). Features natural language semantic search across 10+ translations including NIV, ESV, KJV, 개역한글, and 새번역.\n\nBuilt using FastAPI, PostgreSQL with pgvector for vector similarity search, and Next.js 15 with TypeScript. Integrated the multilingual-e5-large embedding model (1024-dim) for semantic search and Groq Llama 3.3 70B API for contextual LLM responses with Gemini fallback.\n\nIngested 442,413 original language words with Strong's Concordance numbers (99.9% Greek coverage, 98.1% Hebrew coverage, 98.0% Aramaic coverage) providing morphological parsing, transliteration, and interlinear word-by-word analysis. Implemented Redis caching layer achieving <500ms response times for cached queries and <2s for initial searches. Features parallel translation view, cross-reference discovery with 63,779+ verse connections, Korean-specific typography with Hanja display, and automatic query intent detection with code-switching support.",
     "featured": true,
-    "featuredRank": 2,
+    "featuredRank": 3,
     "featuredLabel": "Most Data-Intensive",
     "techStack": [
       "fastapi",
@@ -87,9 +125,9 @@
     "title": "Smart Charge",
     "tagline": "A native macOS menu bar application for battery health.",
     "description": "Developed a native macOS menu bar application that implements intelligent battery charging algorithms to maximize battery lifespan while ensuring device availability.  Features real-time power monitoring, customizable charging rules, and beautiful visualizations of system energy flow with an \"Availability First\" philosophy.\n\nBuilt with Swift and SwiftUI for a lightweight, fast, macOS-native experience. Implements three charging modes: Availability (prioritizes readiness), Longevity (optimizes battery health), and Custom (user-defined rules). Features deterministic time-based and power-draw logic for predictable behavior, avoiding complex pattern learning black boxes.\n\nKey technical achievements include integration with macOS System Management Controller (SMC) for hardware-level charging control via the battery CLI tool, privileged helper implementation for real-time CPU/GPU power metrics monitoring using powermetrics, and comprehensive documentation covering architecture, data flows, and development workflows.  Provides manual control with smart defaults, giving users full transparency and control over charging behavior.",
-    "featured": true,
-    "featuredRank": 3,
-    "featuredLabel": "Most Useful",
+    "featured": false,
+    "featuredRank": null,
+    "featuredLabel": null,
     "techStack": [
       "swift",
       "swiftui",

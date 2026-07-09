@@ -3,7 +3,7 @@
     "id": "rescored",
     "title": "Rescored",
     "tagline": "Convert YouTube videos into editable sheet music using AI.",
-    "description": "Created a recipe management application that helps users organize recipes, plan meals, and generate shopping lists. Uses AI to suggest recipes based on available ingredients and dietary preferences.\n\nBuilt with Next.js and MongoDB for flexible recipe storage. The AI meal planner uses GPT-4 to generate weekly meal plans considering nutritional balance, ingredient overlap to minimize waste, and user preferences.\n\nFeatures include recipe import from URLs with automatic parsing, nutritional information calculation, serving size adjustment, and ingredient substitution suggestions. Mobile-responsive design optimized for kitchen use.",
+    "description": "Built Rescored, a tool that converts YouTube videos into editable sheet music using AI, letting musicians transcribe songs without doing it by ear.\n\nBuilt with a Python/FastAPI backend using Celery and Redis to manage the transcription pipeline, and a React frontend with VexFlow for notation rendering and Tone.js for playback. Audio is extracted from the video, separated by instrument using BS-RoFormer and Demucs, then transcribed to MIDI with an ensemble of YourMT3+ and ByteDance's piano transcription model refined by a BiLSTM layer, reaching 96.1% F1 on the MAESTRO test set.\n\nFeatures an in-browser notation editor for correcting transcriptions, playback synced to the score, and MIDI export. Currently supports piano transcription with source separation, with multi-instrument transcription and grand staff support planned next.",
     "featured": true,
     "featuredRank": 1,
     "featuredLabel": "Most Technically Complex",
